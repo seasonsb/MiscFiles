@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1898px" preserveAspectRatio="none" style="width:3149px;height:1898px;background:#003153;" version="1.1" viewBox="0 0 3149 1898" width="3149px" zoomAndPan="magnify"><defs/><g><!--MD5=[7b04d12e0c445a2f669edbb9dd96e81f]
+cluster ClothTree--><g id="cluster_ClothTree"><path d="M91.5,860.38 L218.5,860.38 A3.75,3.75 0 0 1 221,862.88 L228,891.9894 L809.5,891.9894 A2.5,2.5 0 0 1 812,894.4894 L812,1362.88 A2.5,2.5 0 0 1 809.5,1365.38 L91.5,1365.38 A2.5,2.5 0 0 1 89,1362.88 L89,862.88 A2.5,2.5 0 0 1 91.5,860.38 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="89" x2="228" y1="891.9894" y2="891.9894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="126" x="93" y="882.8009">ClothTree</text></g><!--MD5=[983f3cf723132fa19e1d2c51446f36dd]
+cluster Bombs--><g id="cluster_Bombs"><path d="M2596.5,97.88 L2682.5,97.88 A3.75,3.75 0 0 1 2685,100.38 L2692,129.4894 L3053.5,129.4894 A2.5,2.5 0 0 1 3056,131.9894 L3056,579.38 A2.5,2.5 0 0 1 3053.5,581.88 L2596.5,581.88 A2.5,2.5 0 0 1 2594,579.38 L2594,100.38 A2.5,2.5 0 0 1 2596.5,97.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="2594" x2="2692" y1="129.4894" y2="129.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="85" x="2598" y="120.3009">Bombs</text></g><!--MD5=[c3fbab6048da95d3b0a87fc75260d780]
+cluster Accessories--><g id="cluster_Accessories"><path d="M1984.5,88.88 L2132.5,88.88 A3.75,3.75 0 0 1 2135,91.38 L2142,120.4894 L2559.5,120.4894 A2.5,2.5 0 0 1 2562,122.9894 L2562,823.88 A2.5,2.5 0 0 1 2559.5,826.38 L1984.5,826.38 A2.5,2.5 0 0 1 1982,823.88 L1982,91.38 A2.5,2.5 0 0 1 1984.5,88.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="1982" x2="2142" y1="120.4894" y2="120.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="147" x="1986" y="111.3009">Accessories</text></g><!--MD5=[2f0dd51607ed319b454f55dbd36a3aa8]
+cluster Ingots--><g id="cluster_Ingots"><path d="M1153.5,627.88 L1234.5,627.88 A3.75,3.75 0 0 1 1237,630.38 L1244,659.4894 L1698.5,659.4894 A2.5,2.5 0 0 1 1701,661.9894 L1701,1145.38 A2.5,2.5 0 0 1 1698.5,1147.88 L1153.5,1147.88 A2.5,2.5 0 0 1 1151,1145.38 L1151,630.38 A2.5,2.5 0 0 1 1153.5,627.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="1151" x2="1244" y1="659.4894" y2="659.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="80" x="1155" y="650.3009">Ingots</text></g><!--MD5=[a0045936b3ddacc9f82905d4b54c2b8b]
+cluster Medicines--><g id="cluster_Medicines"><path d="M2648.5,623.88 L2775.5,623.88 A3.75,3.75 0 0 1 2778,626.38 L2785,655.4894 L3139.5,655.4894 A2.5,2.5 0 0 1 3142,657.9894 L3142,1043.38 A2.5,2.5 0 0 1 3139.5,1045.88 L2648.5,1045.88 A2.5,2.5 0 0 1 2646,1043.38 L2646,626.38 A2.5,2.5 0 0 1 2648.5,623.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="2646" x2="2785" y1="655.4894" y2="655.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="126" x="2650" y="646.3009">Medicines</text></g><!--MD5=[786fcbdd6b6fb1e819cf631f7ae50aac]
+cluster SynthComponents--><g id="cluster_SynthComponents"><path d="M1620.5,1173.38 L1854.5,1173.38 A3.75,3.75 0 0 1 1857,1175.88 L1864,1204.9894 L2812.5,1204.9894 A2.5,2.5 0 0 1 2815,1207.4894 L2815,1795.88 A2.5,2.5 0 0 1 2812.5,1798.38 L1620.5,1798.38 A2.5,2.5 0 0 1 1618,1795.88 L1618,1175.88 A2.5,2.5 0 0 1 1620.5,1173.38 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="1618" x2="1864" y1="1204.9894" y2="1204.9894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="233" x="1622" y="1195.8009">SynthComponents</text></g><!--MD5=[a0db388c7709e557e7ffe4e8855414ce]
+cluster GatherTools--><g id="cluster_GatherTools"><path d="M13.5,1389.38 L170.5,1389.38 A3.75,3.75 0 0 1 173,1391.88 L180,1420.9894 L533.5,1420.9894 A2.5,2.5 0 0 1 536,1423.4894 L536,1888.88 A2.5,2.5 0 0 1 533.5,1891.38 L13.5,1891.38 A2.5,2.5 0 0 1 11,1888.88 L11,1391.88 A2.5,2.5 0 0 1 13.5,1389.38 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="11" x2="180" y1="1420.9894" y2="1420.9894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="156" x="15" y="1411.8009">GatherTools</text></g><!--MD5=[9149ae18355a8782ddbb2c2cfeb802d6]
+cluster Armors--><g id="cluster_Armors"><path d="M181.5,86.88 L275.5,86.88 A3.75,3.75 0 0 1 278,89.38 L285,118.4894 L749.5,118.4894 A2.5,2.5 0 0 1 752,120.9894 L752,825.88 A2.5,2.5 0 0 1 749.5,828.38 L181.5,828.38 A2.5,2.5 0 0 1 179,825.88 L179,89.38 A2.5,2.5 0 0 1 181.5,86.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="179" x2="285" y1="118.4894" y2="118.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="93" x="183" y="109.3009">Armors</text></g><!--MD5=[98ea6f3d0d477f6929668d1b4f481231]
+cluster Weapons--><g id="cluster_Weapons"><path d="M794.5,87.38 L909.5,87.38 A3.75,3.75 0 0 1 912,89.88 L919,118.9894 L1939.5,118.9894 A2.5,2.5 0 0 1 1942,121.4894 L1942,589.38 A2.5,2.5 0 0 1 1939.5,591.88 L794.5,591.88 A2.5,2.5 0 0 1 792,589.38 L792,89.88 A2.5,2.5 0 0 1 794.5,87.38 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="792" x2="919" y1="118.9894" y2="118.9894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="114" x="796" y="109.8009">Weapons</text></g><!--MD5=[079302e32ff65aba973f85400f4022bd]
+cluster HideoutMaterial--><g id="cluster_HideoutMaterial"><path d="M868.5,1171.88 L1076.5,1171.88 A3.75,3.75 0 0 1 1079,1174.38 L1086,1203.4894 L1556.5,1203.4894 A2.5,2.5 0 0 1 1559,1205.9894 L1559,1580.88 A2.5,2.5 0 0 1 1556.5,1583.38 L868.5,1583.38 A2.5,2.5 0 0 1 866,1580.88 L866,1174.38 A2.5,2.5 0 0 1 868.5,1171.88 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="866" x2="1086" y1="1203.4894" y2="1203.4894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="207" x="870" y="1194.3009">HideoutMaterial</text></g><!--MD5=[3d3bdde3bce1b9519c23834962d46b57]
+cluster Seeds--><g id="cluster_Seeds"><path d="M1029.5,1607.38 L1106.5,1607.38 A3.75,3.75 0 0 1 1109,1609.88 L1116,1638.9894 L1359.5,1638.9894 A2.5,2.5 0 0 1 1362,1641.4894 L1362,1888.38 A2.5,2.5 0 0 1 1359.5,1890.88 L1029.5,1890.88 A2.5,2.5 0 0 1 1027,1888.38 L1027,1609.88 A2.5,2.5 0 0 1 1029.5,1607.38 " fill="#003153" style="stroke:#D9D3D0;stroke-width:1.0;"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="1027" x2="1116" y1="1638.9894" y2="1638.9894"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="76" x="1031" y="1629.8009">Seeds</text></g><g id="elem_Cloth"><ellipse cx="497.1869" cy="918.9434" fill="#003153" rx="39.1869" ry="14.5634" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="475.5666" y="922.4676">Cloth</text></g><g id="elem_Alchemy Fibers"><ellipse cx="376.0612" cy="1014.0922" fill="#003153" rx="76.5612" ry="17.7122" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="318.0612" y="1017.8398">Alchemy Fibers</text></g><g id="elem_Natural Cloth"><ellipse cx="557.9333" cy="1013.8667" fill="#003153" rx="70.4333" ry="16.4867" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="94" x="507.9333" y="1017.6142">Natural Cloth</text></g><g id="elem_Heaven's String"><ellipse cx="182.8536" cy="1111.7507" fill="#003153" rx="77.3536" ry="17.8707" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="124.1333" y="1115.4254">Heaven's String</text></g><g id="elem_Thorny Embrace"><ellipse cx="375.7839" cy="1111.7368" fill="#003153" rx="79.7839" ry="18.3568" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="315.0356" y="1115.1413">Thorny Embrace</text></g><g id="elem_Beastial Air"><ellipse cx="556.7655" cy="1111.9331" fill="#003153" rx="65.7655" ry="15.5531" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="81" x="513.2655" y="1115.6807">Beastial Air</text></g><g id="elem_Puni Leather"><ellipse cx="726.964" cy="1112.0728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="678.964" y="1115.8204">Puni Leather</text></g><g id="elem_Poison Smoke"><ellipse cx="373.0678" cy="1234.3936" fill="#003153" rx="73.0678" ry="17.0136" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="319.5678" y="1238.1411">Poison Smoke</text></g><g id="elem_Knapsack"><ellipse cx="552.0597" cy="1234.162" fill="#003153" rx="61.5597" ry="14.782" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="69" x="514.5597" y="1237.9095">Knapsack</text></g><g id="elem_Sorcery Rose"><ellipse cx="722.9333" cy="1234.3667" fill="#003153" rx="70.4333" ry="16.4867" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="94" x="672.9333" y="1238.1142">Sorcery Rose</text></g><g id="elem_Heroic Geist"><ellipse cx="369.24" cy="1331.428" fill="#003153" rx="68.24" ry="16.048" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="322.24" y="1335.1756">Heroic Geist</text></g><g id="elem_Exploration Set"><ellipse cx="549.8536" cy="1331.2507" fill="#003153" rx="77.3536" ry="17.8707" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="491.1333" y="1334.9254">Exploration Set</text></g><g id="elem_Wind Shoes"><ellipse cx="728.9626" cy="1331.5725" fill="#003153" rx="66.4626" ry="15.6925" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="684.4626" y="1335.3201">Wind Shoes</text></g><g id="elem_Bomb"><ellipse cx="2974.1531" cy="158.4813" fill="#003153" rx="42.1531" ry="14.6013" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="43" x="2949.6531" y="162.2289">Bomb</text></g><g id="elem_Rose Bomb"><ellipse cx="2974.113" cy="256.5026" fill="#003153" rx="66.113" ry="15.6226" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="82" x="2930.113" y="260.2502">Rose Bomb</text></g><g id="elem_Fire Bottle"><ellipse cx="2973.8963" cy="353.1593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="2932.3963" y="356.9068">Fire Bottle</text></g><g id="elem_Explosive Uni"><ellipse cx="2744.9333" cy="158.3667" fill="#003153" rx="70.4333" ry="16.4867" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="94" x="2694.9333" y="162.1142">Explosive Uni</text></g><g id="elem_Craft"><ellipse cx="2670.2231" cy="256.4285" fill="#003153" rx="37.7231" ry="14.5485" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="2650.1116" y="259.8112">Craft</text></g><g id="elem_Ice Caltrop"><ellipse cx="2808.0766" cy="256.2953" fill="#003153" rx="65.0766" ry="15.4153" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="2765.5766" y="260.0429">Ice Caltrop</text></g><g id="elem_Ice Bomb"><ellipse cx="2810.813" cy="353.1571" fill="#003153" rx="60.813" ry="14.7771" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="68" x="2773.813" y="356.9047">Ice Bomb</text></g><g id="elem_Kleid Ice Bomb"><ellipse cx="2850.7754" cy="451.4351" fill="#003153" rx="75.7754" ry="17.5551" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="2793.7754" y="455.1826">Kleid Ice Bomb</text></g><g id="elem_Vanish Siegel"><ellipse cx="2748.8049" cy="549.441" fill="#003153" rx="70.8049" ry="16.561" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="95" x="2698.3049" y="553.1885">Vanish Siegel</text></g><g id="elem_Ratsel Luft"><ellipse cx="2675.2353" cy="451.2271" fill="#003153" rx="64.7353" ry="15.3471" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="2633.2353" y="454.9746">Ratsel Luft</text></g><g id="elem_Luft"><ellipse cx="2674.9914" cy="353.4036" fill="#003153" rx="31.9914" ry="14.5236" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="29" x="2660.4914" y="356.2503">Luft</text></g><g id="elem_Plajig"><ellipse cx="3000.9534" cy="451.4356" fill="#003153" rx="38.4534" ry="14.5556" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="38" x="2980.0903" y="454.8895">Plajig</text></g><g id="elem_Strahl Plajig"><ellipse cx="2973.1678" cy="549.2136" fill="#003153" rx="67.1678" ry="15.8336" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="2927.6678" y="552.9611">Strahl Plajig</text></g><g id="elem_Polish Powder"><ellipse cx="2375.8073" cy="158.2415" fill="#003153" rx="72.3073" ry="16.8615" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="2323.3073" y="161.989">Polish Powder</text></g><g id="elem_Energy Pendant"><ellipse cx="2287.1551" cy="256.411" fill="#003153" rx="78.1551" ry="18.031" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="2227.7659" y="259.9966">Energy Pendant</text></g><g id="elem_Pearl Crystal"><ellipse cx="2468.964" cy="256.5728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="2420.964" y="260.3204">Pearl Crystal</text></g><g id="elem_Amberlite"><ellipse cx="2305.0625" cy="353.3925" fill="#003153" rx="63.0625" ry="15.0125" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="2265.5625" y="357.1401">Amberlite</text></g><g id="elem_Gnardi Ring"><ellipse cx="2469.9626" cy="353.5725" fill="#003153" rx="66.4626" ry="15.6925" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="2425.4626" y="357.3201">Gnardi Ring</text></g><g id="elem_Quartz Necklace"><ellipse cx="2287.8735" cy="451.1547" fill="#003153" rx="79.3735" ry="18.2747" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="117" x="2227.4676" y="454.6048">Quartz Necklace</text></g><g id="elem_Spirinite"><ellipse cx="2458.8333" cy="451.6255" fill="#003153" rx="56.3333" ry="14.7455" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="62" x="2424.8333" y="455.3731">Spirinite</text></g><g id="elem_Heated Bangle"><ellipse cx="2269.1066" cy="549.2013" fill="#003153" rx="74.6066" ry="17.3213" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="2213.6066" y="552.9489">Heated Bangle</text></g><g id="elem_Saint's Diamond"><ellipse cx="2457.9652" cy="549.573" fill="#003153" rx="78.9652" ry="18.193" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="2397.9" y="553.0686">Saint's Diamond</text></g><g id="elem_Arc en Ciel"><ellipse cx="2277.8963" cy="687.6593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="2236.3963" y="691.4068">Arc en Ciel</text></g><g id="elem_Fairystone Chain"><ellipse cx="2458.1963" cy="687.8193" fill="#003153" rx="80.1963" ry="18.4393" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="2397.1039" y="691.1779">Fairystone Chain</text></g><g id="elem_Elixir Ring"><ellipse cx="2277.9096" cy="787.2619" fill="#003153" rx="62.4096" ry="14.8819" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="71" x="2239.4096" y="791.0095">Elixir Ring</text></g><g id="elem_Boltwind Earring"><ellipse cx="2093.7839" cy="353.2368" fill="#003153" rx="79.7839" ry="18.3568" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="2033.0356" y="356.6413">Boltwind Earring</text></g><g id="elem_Frostfire Earring"><ellipse cx="2093.8735" cy="451.1547" fill="#003153" rx="79.3735" ry="18.2747" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="117" x="2033.4676" y="454.6048">Frostfire Earring</text></g><g id="elem_Master Leather"><ellipse cx="2101.1676" cy="158.5135" fill="#003153" rx="76.1676" ry="17.6335" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="2043.6676" y="162.2611">Master Leather</text></g><g id="elem_Godspeed Boots"><ellipse cx="2094.1963" cy="256.3193" fill="#003153" rx="80.1963" ry="18.4393" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="2033.1039" y="259.6779">Godspeed Boots</text></g><g id="elem_Ingot"><ellipse cx="1466.9534" cy="687.9356" fill="#003153" rx="38.4534" ry="14.5556" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="38" x="1446.0903" y="691.3895">Ingot</text></g><g id="elem_Bronze Eisen"><ellipse cx="1420.0634" cy="787.2927" fill="#003153" rx="70.0634" ry="16.4127" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="1370.5634" y="791.0402">Bronze Eisen</text></g><g id="elem_Reaper's Scythe"><ellipse cx="1604.8735" cy="787.1547" fill="#003153" rx="79.3735" ry="18.2747" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="117" x="1544.4676" y="790.6048">Reaper's Scythe</text></g><g id="elem_Compass"><ellipse cx="1274.0731" cy="918.6419" fill="#003153" rx="58.5731" ry="14.7619" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="1238.5731" y="922.3895">Compass</text></g><g id="elem_Staltium"><ellipse cx="1434.0868" cy="919.1197" fill="#003153" rx="55.5868" ry="14.7397" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="1400.5868" y="922.8673">Staltium</text></g><g id="elem_Scythe Axe"><ellipse cx="1604.7655" cy="918.9331" fill="#003153" rx="65.7655" ry="15.5531" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="81" x="1561.2655" y="922.6807">Scythe Axe</text></g><g id="elem_Loupe Compass"><ellipse cx="1262.7532" cy="1013.8306" fill="#003153" rx="77.7532" ry="17.9506" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="113" x="1203.6994" y="1017.4609">Loupe Compass</text></g><g id="elem_Criminea"><ellipse cx="1433.8265" cy="1013.6366" fill="#003153" rx="57.8265" ry="14.7566" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="64" x="1398.8265" y="1017.3841">Criminea</text></g><g id="elem_Norden Brand"><ellipse cx="1598.9293" cy="1013.6659" fill="#003153" rx="71.9293" ry="16.7859" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="1546.9293" y="1017.4134">Norden Brand</text></g><g id="elem_Astronomical Clock"><ellipse cx="1433.7915" cy="1112.0383" fill="#003153" rx="88.7915" ry="20.1583" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="139" x="1364.2915" y="1114.885">Astronomical Clock</text></g><g id="elem_Goldoterion"><ellipse cx="1241.0233" cy="687.7847" fill="#003153" rx="67.5233" ry="15.9047" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="1195.0233" y="691.5322">Goldoterion</text></g><g id="elem_Baron's Crown"><ellipse cx="1240.9504" cy="787.4701" fill="#003153" rx="73.4504" ry="17.0901" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="1186.9504" y="791.2176">Baron's Crown</text></g><g id="elem_Grass Beans"><ellipse cx="2998.0233" cy="687.7847" fill="#003153" rx="67.5233" ry="15.9047" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="2952.0233" y="691.5322">Grass Beans</text></g><g id="elem_Blessing Ointment"><ellipse cx="2875.1635" cy="787.5127" fill="#003153" rx="86.1635" ry="19.6327" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="133" x="2808.6635" y="790.3594">Blessing Ointment</text></g><g id="elem_Dry Biscuit"><ellipse cx="3060.8963" cy="787.1593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="3019.3963" y="790.9068">Dry Biscuit</text></g><g id="elem_Puni Jelly"><ellipse cx="3061.0799" cy="918.6311" fill="#003153" rx="57.0799" ry="14.7511" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="3026.5799" y="922.3787">Puni Jelly</text></g><g id="elem_Rasen Pudding"><ellipse cx="2875.2198" cy="919.124" fill="#003153" rx="74.2198" ry="17.244" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="104" x="2820.2198" y="922.8715">Rasen Pudding</text></g><g id="elem_Cocktail Leb"><ellipse cx="2874.964" cy="1014.0728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="2826.964" y="1017.8204">Cocktail Leb</text></g><g id="elem_Restoration Bottle"><ellipse cx="2749.0368" cy="687.6874" fill="#003153" rx="87.0368" ry="19.8074" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="135" x="2681.5368" y="690.534">Restoration Bottle</text></g><g id="elem_Nectar"><ellipse cx="2707.8836" cy="787.5278" fill="#003153" rx="45.8836" ry="14.6478" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="48" x="2680.8836" y="791.2754">Nectar</text></g><g id="elem_Elixir"><ellipse cx="2707.7722" cy="918.9169" fill="#003153" rx="36.2722" ry="14.5369" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="2689.1457" y="922.1541">Elixir</text></g><g id="elem_Mixing Oil"><ellipse cx="2665.0597" cy="1234.162" fill="#003153" rx="61.5597" ry="14.782" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="69" x="2627.5597" y="1237.9095">Mixing Oil</text></g><g id="elem_Alchemy Paint"><ellipse cx="2593.8343" cy="1331.5469" fill="#003153" rx="73.8343" ry="17.1669" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="103" x="2539.3343" y="1335.2944">Alchemy Paint</text></g><g id="elem_Fish Oil"><ellipse cx="2751.1224" cy="1331.5523" fill="#003153" rx="48.1224" ry="14.6723" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="51" x="2722.6224" y="1335.2998">Fish Oil</text></g><g id="elem_Mastery Paint"><ellipse cx="2553.9293" cy="1448.6659" fill="#003153" rx="71.9293" ry="16.7859" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="2501.9293" y="1452.4134">Mastery Paint</text></g><g id="elem_Spirit Bottle"><ellipse cx="2729.964" cy="1449.0728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="2681.964" y="1452.8204">Spirit Bottle</text></g><g id="elem_Crystal Element"><ellipse cx="2714.0591" cy="1548.9918" fill="#003153" rx="78.5591" ry="18.1118" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="115" x="2654.3328" y="1552.5325">Crystal Element</text></g><g id="elem_Philosopher's Stone"><ellipse cx="2708.0567" cy="1666.8913" fill="#003153" rx="90.5567" ry="20.5113" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="143" x="2636.5567" y="1669.738">Philosopher's Stone</text></g><g id="elem_Gunpowder Base"><ellipse cx="1717.1107" cy="1448.9021" fill="#003153" rx="80.6107" ry="18.5221" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="120" x="1655.6726" y="1452.2148">Gunpowder Base</text></g><g id="elem_Blue Flame Ember"><ellipse cx="1718.8592" cy="1548.7518" fill="#003153" rx="84.8592" ry="19.3718" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="130" x="1653.8592" y="1551.5985">Blue Flame Ember</text></g><g id="elem_Red Stone"><ellipse cx="1719.2248" cy="1667.025" fill="#003153" rx="63.7248" ry="15.145" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="75" x="1678.7248" y="1670.7725">Red Stone</text></g><g id="elem_Crimson Stone"><ellipse cx="1718.9948" cy="1764.779" fill="#003153" rx="74.9948" ry="17.399" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="1662.9948" y="1768.5265">Crimson Stone</text></g><g id="elem_Flour"><ellipse cx="2277.7722" cy="1234.4169" fill="#003153" rx="36.2722" ry="14.5369" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="2259.1457" y="1237.6541">Flour</text></g><g id="elem_Delicious Bait"><ellipse cx="2242.0529" cy="1331.5906" fill="#003153" rx="71.5529" ry="16.7106" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="2190.5529" y="1335.3381">Delicious Bait</text></g><g id="elem_Poison Cube"><ellipse cx="2417.24" cy="1331.428" fill="#003153" rx="68.24" ry="16.048" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="2370.24" y="1335.1756">Poison Cube</text></g><g id="elem_Powerful Fish Bait"><ellipse cx="2194.0656" cy="1448.9931" fill="#003153" rx="83.5656" ry="19.1131" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="127" x="2130.1623" y="1451.9774">Powerful Fish Bait</text></g><g id="elem_Taboo Drop"><ellipse cx="2380.1678" cy="1448.7136" fill="#003153" rx="67.1678" ry="15.8336" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="2334.6678" y="1452.4611">Taboo Drop</text></g><g id="elem_Holy Drop"><ellipse cx="2379.9096" cy="1548.7619" fill="#003153" rx="62.4096" ry="14.8819" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="71" x="2341.4096" y="1552.5095">Holy Drop</text></g><g id="elem_Honey"><ellipse cx="1970.1452" cy="1234.5009" fill="#003153" rx="43.6452" ry="14.6209" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="1944.6452" y="1238.2484">Honey</text></g><g id="elem_Eltz Sugar"><ellipse cx="1883.2349" cy="1331.327" fill="#003153" rx="62.7349" ry="14.947" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="72" x="1844.2349" y="1335.0745">Eltz Sugar</text></g><g id="elem_Sundry Remedy"><ellipse cx="2057.8536" cy="1331.2507" fill="#003153" rx="77.3536" ry="17.8707" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="1999.1333" y="1334.9254">Sundry Remedy</text></g><g id="elem_War Powder"><ellipse cx="1909.1678" cy="1448.7136" fill="#003153" rx="67.1678" ry="15.8336" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="1863.6678" y="1452.4611">War Powder</text></g><g id="elem_Miracle Ebonyal"><ellipse cx="1916.8536" cy="1548.7507" fill="#003153" rx="77.3536" ry="17.8707" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="1858.1333" y="1552.4254">Miracle Ebonyal</text></g><g id="elem_Lightning Bell"><ellipse cx="1709.8073" cy="1234.2415" fill="#003153" rx="72.3073" ry="16.8615" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="1657.3073" y="1237.989">Lightning Bell</text></g><g id="elem_Lightning Sand"><ellipse cx="1709.8844" cy="1331.3569" fill="#003153" rx="75.3844" ry="17.4769" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="107" x="1653.3844" y="1335.1044">Lightning Sand</text></g><g id="elem_Hammer"><ellipse cx="83.0868" cy="1667.1197" fill="#003153" rx="55.5868" ry="14.7397" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="49.5868" y="1670.8673">Hammer</text></g><g id="elem_Bomb Hammer"><ellipse cx="102.7754" cy="1764.9351" fill="#003153" rx="75.7754" ry="17.5551" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="45.7754" y="1768.6826">Bomb Hammer</text></g><g id="elem_Zettel"><ellipse cx="368.8913" cy="1449.0102" fill="#003153" rx="44.3913" ry="14.6302" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="46" x="342.8913" y="1452.7577">Zettel</text></g><g id="elem_Traveler's Water Orb"><ellipse cx="369.2229" cy="1548.9246" fill="#003153" rx="93.2229" ry="21.0446" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="149" x="294.7229" y="1551.7713">Traveler's Water Orb</text></g><g id="elem_Delphi Rose Incense"><ellipse cx="264.9431" cy="1667.0686" fill="#003153" rx="91.4431" ry="20.6886" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="192.4431" y="1669.9153">Delphi Rose Incense</text></g><g id="elem_Mist Liquid"><ellipse cx="456.0594" cy="1667.0919" fill="#003153" rx="64.0594" ry="15.2119" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="76" x="415.0594" y="1670.8394">Mist Liquid</text></g><g id="elem_Glass Flower"><ellipse cx="282.24" cy="1764.928" fill="#003153" rx="68.24" ry="16.048" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="235.24" y="1768.6756">Glass Flower</text></g><g id="elem_Mirage Loupe"><ellipse cx="282.1781" cy="1859.0156" fill="#003153" rx="71.1781" ry="16.6356" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="231.1781" y="1862.7632">Mirage Loupe</text></g><g id="elem_Fishing Rod"><ellipse cx="105.113" cy="1449.0026" fill="#003153" rx="66.113" ry="15.6226" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="82" x="61.113" y="1452.7502">Fishing Rod</text></g><g id="elem_Fishing Rod Net"><ellipse cx="104.8536" cy="1548.7507" fill="#003153" rx="77.3536" ry="17.8707" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="46.1333" y="1552.4254">Fishing Rod Net</text></g><g id="elem_Leather Protector"><ellipse cx="642.8592" cy="158.2518" fill="#003153" rx="84.8592" ry="19.3718" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="130" x="577.8592" y="161.0985">Leather Protector</text></g><g id="elem_Border Scale"><ellipse cx="652.8288" cy="256.1458" fill="#003153" rx="69.3288" ry="16.2658" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="604.3288" y="259.8933">Border Scale</text></g><g id="elem_Radiant Plate"><ellipse cx="653.1781" cy="353.5156" fill="#003153" rx="71.1781" ry="16.6356" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="602.1781" y="357.2632">Radiant Plate</text></g><g id="elem_Frost Armor"><ellipse cx="653.0233" cy="451.2847" fill="#003153" rx="67.5233" ry="15.9047" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="607.0233" y="455.0322">Frost Armor</text></g><g id="elem_Golden Mail"><ellipse cx="660.9626" cy="549.5725" fill="#003153" rx="66.4626" ry="15.6925" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="616.4626" y="553.3201">Golden Mail</text></g><g id="elem_Fortress Armor"><ellipse cx="651.7754" cy="687.9351" fill="#003153" rx="75.7754" ry="17.5551" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="594.7754" y="691.6826">Fortress Armor</text></g><g id="elem_Stark Cologne"><ellipse cx="496.9504" cy="787.4701" fill="#003153" rx="73.4504" ry="17.0901" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="442.9504" y="791.2176">Stark Cologne</text></g><g id="elem_Sage's Cloak"><ellipse cx="471.964" cy="688.0728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="423.964" y="691.8204">Sage's Cloak</text></g><g id="elem_Darkness Dress"><ellipse cx="483.0612" cy="549.5922" fill="#003153" rx="76.5612" ry="17.7122" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="425.0612" y="553.3398">Darkness Dress</text></g><g id="elem_Fairy Cloak"><ellipse cx="475.2353" cy="451.2271" fill="#003153" rx="64.7353" ry="15.3471" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="433.2353" y="454.9746">Fairy Cloak</text></g><g id="elem_Chain Vest"><ellipse cx="433.8963" cy="353.1593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="392.3963" y="356.9068">Chain Vest</text></g><g id="elem_Skuller Coat"><ellipse cx="294.8807" cy="451.3561" fill="#003153" rx="67.8807" ry="15.9761" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="87" x="248.3807" y="455.1037">Skuller Coat</text></g><g id="elem_Kurken Sweats"><ellipse cx="471.9948" cy="256.279" fill="#003153" rx="74.9948" ry="17.399" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="415.9948" y="260.0265">Kurken Sweats</text></g><g id="elem_Noble Tunic"><ellipse cx="294.8142" cy="256.1428" fill="#003153" rx="66.8142" ry="15.7628" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="249.8142" y="259.8904">Noble Tunic</text></g><g id="elem_Charade Lumont"><ellipse cx="290.7839" cy="549.2368" fill="#003153" rx="79.7839" ry="18.3568" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="230.0356" y="552.6413">Charade Lumont</text></g><g id="elem_Stake Hammer"><ellipse cx="1841.8844" cy="158.3569" fill="#003153" rx="75.3844" ry="17.4769" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="107" x="1785.3844" y="162.1044">Stake Hammer</text></g><g id="elem_Clairempathy"><ellipse cx="1842.0529" cy="256.5906" fill="#003153" rx="71.5529" ry="16.7106" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="1790.5529" y="260.3381">Clairempathy</text></g><g id="elem_Destruction"><ellipse cx="1842.1678" cy="353.2136" fill="#003153" rx="67.1678" ry="15.8336" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="1796.6678" y="356.9611">Destruction</text></g><g id="elem_Holy Torrent"><ellipse cx="1842.964" cy="451.5728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="1794.964" y="455.3204">Holy Torrent</text></g><g id="elem_Brave Emblem"><ellipse cx="1843.1066" cy="549.2013" fill="#003153" rx="74.6066" ry="17.3213" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="1787.6066" y="552.9489">Brave Emblem</text></g><g id="elem_Handmade Staff"><ellipse cx="1651.9652" cy="158.573" fill="#003153" rx="78.9652" ry="18.193" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="1591.9" y="162.0686">Handmade Staff</text></g><g id="elem_Helioprox"><ellipse cx="1655.0597" cy="256.162" fill="#003153" rx="61.5597" ry="14.782" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="69" x="1617.5597" y="259.9095">Helioprox</text></g><g id="elem_Grim Quartz"><ellipse cx="1657.8807" cy="353.3561" fill="#003153" rx="67.8807" ry="15.9761" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="87" x="1611.3807" y="357.1037">Grim Quartz</text></g><g id="elem_Rune Code"><ellipse cx="1662.8963" cy="451.1593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="1621.3963" y="454.9068">Rune Code</text></g><g id="elem_Celestial Seeker"><ellipse cx="1653.8735" cy="549.1547" fill="#003153" rx="79.3735" ry="18.2747" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="117" x="1593.4676" y="552.6048">Celestial Seeker</text></g><g id="elem_Weathered Sword"><ellipse cx="1453.995" cy="158.579" fill="#003153" rx="83.995" ry="19.199" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="128" x="1389.7335" y="161.5156">Weathered Sword</text></g><g id="elem_Colossal Edge"><ellipse cx="1459.9293" cy="256.1659" fill="#003153" rx="71.9293" ry="16.7859" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="1407.9293" y="259.9134">Colossal Edge</text></g><g id="elem_Initiator"><ellipse cx="1465.8472" cy="353.6015" fill="#003153" rx="53.3472" ry="14.7215" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="58" x="1433.8472" y="357.349">Initiator</text></g><g id="elem_Schwartz Thruster"><ellipse cx="1477.7932" cy="451.3386" fill="#003153" rx="85.2932" ry="19.4586" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="131" x="1412.2932" y="454.1853">Schwartz Thruster</text></g><g id="elem_Lord Guardian"><ellipse cx="1466.8073" cy="549.2415" fill="#003153" rx="72.3073" ry="16.8615" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="1414.3073" y="552.989">Lord Guardian</text></g><g id="elem_Practice Flute"><ellipse cx="1261.8073" cy="158.2415" fill="#003153" rx="72.3073" ry="16.8615" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="1209.3073" y="161.989">Practice Flute</text></g><g id="elem_Crepusculum"><ellipse cx="1266.1952" cy="256.219" fill="#003153" rx="69.6952" ry="16.339" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="92" x="1217.1952" y="259.9666">Crepusculum</text></g><g id="elem_Virgin Snow"><ellipse cx="1268.8142" cy="353.1428" fill="#003153" rx="66.8142" ry="15.7628" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="1223.8142" y="356.8904">Virgin Snow</text></g><g id="elem_Concert Mistress"><ellipse cx="1276.0271" cy="451.4854" fill="#003153" rx="81.0271" ry="18.6054" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="121" x="1214.2415" y="454.7518">Concert Mistress</text></g><g id="elem_Ethereal Tone"><ellipse cx="1276.0678" cy="549.3936" fill="#003153" rx="73.0678" ry="17.0136" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="1222.5678" y="553.1411">Ethereal Tone</text></g><g id="elem_Pilgrimage Staff"><ellipse cx="1074.9652" cy="158.573" fill="#003153" rx="78.9652" ry="18.193" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="1014.9" y="162.0686">Pilgrimage Staff</text></g><g id="elem_Forest Bell"><ellipse cx="1085.8963" cy="256.1593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="1044.3963" y="259.9068">Forest Bell</text></g><g id="elem_Training Path"><ellipse cx="1082.8049" cy="353.441" fill="#003153" rx="70.8049" ry="16.561" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="95" x="1032.3049" y="357.1885">Training Path</text></g><g id="elem_Holy Arbor Staff"><ellipse cx="1080.9652" cy="451.573" fill="#003153" rx="78.9652" ry="18.193" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="1020.9" y="455.0686">Holy Arbor Staff</text></g><g id="elem_Occult Wisdom"><ellipse cx="1080.8844" cy="549.3569" fill="#003153" rx="75.3844" ry="17.4769" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="107" x="1024.3844" y="553.1044">Occult Wisdom</text></g><g id="elem_Iron Claws"><ellipse cx="898.2349" cy="158.327" fill="#003153" rx="62.7349" ry="14.947" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="72" x="859.2349" y="162.0745">Iron Claws</text></g><g id="elem_Krieger's Talon"><ellipse cx="910.8844" cy="256.3569" fill="#003153" rx="75.3844" ry="17.4769" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="107" x="854.3844" y="260.1044">Krieger's Talon</text></g><g id="elem_Hail Crunch"><ellipse cx="904.92" cy="353.364" fill="#003153" rx="65.42" ry="15.484" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="80" x="861.92" y="357.1116">Hail Crunch</text></g><g id="elem_Wind Slicer"><ellipse cx="900.92" cy="451.364" fill="#003153" rx="65.42" ry="15.484" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="80" x="857.92" y="455.1116">Wind Slicer</text></g><g id="elem_Oren Herald"><ellipse cx="902.1678" cy="549.2136" fill="#003153" rx="67.1678" ry="15.8336" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="856.6678" y="552.9611">Oren Herald</text></g><g id="elem_Building Material"><ellipse cx="1434.1963" cy="1234.3193" fill="#003153" rx="80.1963" ry="18.4393" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="1373.1039" y="1237.6779">Building Material</text></g><g id="elem_Composite Plate"><ellipse cx="1281.1107" cy="1331.4021" fill="#003153" rx="80.6107" ry="18.5221" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="120" x="1219.6726" y="1334.7148">Composite Plate</text></g><g id="elem_Healing Chip"><ellipse cx="1465.964" cy="1331.5728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="1417.964" y="1335.3204">Healing Chip</text></g><g id="elem_Holy Nut"><ellipse cx="1286.8402" cy="1449.1138" fill="#003153" rx="54.8402" ry="14.7338" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="1253.8402" y="1452.8614">Holy Nut</text></g><g id="elem_Resort Woodchip"><ellipse cx="1459.788" cy="1448.7376" fill="#003153" rx="82.288" ry="18.8576" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="1396.9505" y="1451.8638">Resort Woodchip</text></g><g id="elem_Exorcism Brooch"><ellipse cx="1194.1107" cy="1548.9021" fill="#003153" rx="80.6107" ry="18.5221" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="120" x="1132.6726" y="1552.2148">Exorcism Brooch</text></g><g id="elem_Plain Lumber"><ellipse cx="1380.0634" cy="1548.7927" fill="#003153" rx="70.0634" ry="16.4127" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="1330.5634" y="1552.5402">Plain Lumber</text></g><g id="elem_Stone Material"><ellipse cx="1030.1066" cy="1234.2013" fill="#003153" rx="74.6066" ry="17.3213" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="974.6066" y="1237.9489">Stone Material</text></g><g id="elem_Marblestone"><ellipse cx="1029.964" cy="1331.5728" fill="#003153" rx="68.964" ry="16.1928" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="981.964" y="1335.3204">Marblestone</text></g><g id="elem_Meltstone"><ellipse cx="945.0625" cy="1448.8925" fill="#003153" rx="63.0625" ry="15.0125" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="905.5625" y="1452.6401">Meltstone</text></g><g id="elem_Royal Tilestone"><ellipse cx="1120.0612" cy="1449.0922" fill="#003153" rx="76.5612" ry="17.7122" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="1062.0612" y="1452.8398">Royal Tilestone</text></g><g id="elem_Plant Seed"><ellipse cx="1193.8963" cy="1666.6593" fill="#003153" rx="64.3963" ry="15.2793" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="1152.3963" y="1670.4068">Plant Seed</text></g><g id="elem_Stone Seed"><ellipse cx="1109.9626" cy="1765.0725" fill="#003153" rx="66.4626" ry="15.6925" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="1065.4626" y="1768.8201">Stone Seed</text></g><g id="elem_Water Seed"><ellipse cx="1278.8142" cy="1764.6428" fill="#003153" rx="66.8142" ry="15.7628" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="1233.8142" y="1768.3904">Water Seed</text></g><g id="elem_Fire Seed"><ellipse cx="1110.0664" cy="1858.6522" fill="#003153" rx="60.0664" ry="14.7722" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="1073.5664" y="1862.3998">Fire Seed</text></g><g id="elem_Mystic Seed"><ellipse cx="1278.0233" cy="1858.7847" fill="#003153" rx="67.5233" ry="15.9047" style="stroke:#D9D3D0;stroke-width:1.0;"/><text fill="#D9D3D0" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="1232.0233" y="1862.5322">Mystic Seed</text></g><!--MD5=[495f90373972ca0806d908117ffac278]
+link Cloth to Alchemy Fibers--><g id="link_Cloth_Alchemy Fibers"><path d="M480.681,932.422 C460.192,948.17 424.838,975.343 400.947,993.706 " fill="none" id="Cloth-to-Alchemy Fibers" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="396.921,996.8,406.4943,994.4866,400.8852,993.7529,401.6189,988.1438,396.921,996.8" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[dc5960ecc05a1459f56719c9e21ad1bd]
+link Cloth to Natural Cloth--><g id="link_Cloth_Natural Cloth"><path d="M505.74,933.205 C516.005,948.855 533.131,974.965 544.966,993.008 " fill="none" id="Cloth-to-Natural Cloth" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="547.853,997.41,546.262,987.6905,545.1109,993.229,539.5724,992.0778,547.853,997.41" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c56b585ea28b5cda65e97920ef917f9f]
+link Alchemy Fibers to Heaven's String--><g id="link_Alchemy Fibers_Heaven's String"><path d="M345.419,1030.091 C311.138,1047.143 255.598,1074.769 219.184,1092.882 " fill="none" id="Alchemy Fibers-to-Heaven's String" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="214.399,1095.262,224.2386,1094.8349,218.8757,1093.0351,220.6755,1087.6722,214.399,1095.262" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[65e2771da93c826307a2112728346d32]
+link Alchemy Fibers to Thorny Embrace--><g id="link_Alchemy Fibers_Thorny Embrace"><path d="M376,1031.602 C376,1047.278 376,1070.838 376,1088.202 " fill="none" id="Alchemy Fibers-to-Thorny Embrace" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="376,1093.377,380,1084.377,376,1088.377,372,1084.377,376,1093.377" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[7519ee64504af4cdd179bc1c13910c3e]
+link Natural Cloth to Beastial Air--><g id="link_Natural Cloth_Beastial Air"><path d="M557.835,1030.732 C557.663,1047.238 557.393,1073.13 557.207,1090.996 " fill="none" id="Natural Cloth-to-Beastial Air" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="557.152,1096.264,561.2444,1087.3056,557.2034,1091.2643,553.2448,1087.2233,557.152,1096.264" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2d3ab1c514dee7e22a5a1f856b857eb0]
+link Natural Cloth to Puni Leather--><g id="link_Natural Cloth_Puni Leather"><path d="M583.667,1029.46 C614.295,1046.858 665.394,1075.885 697.586,1094.172 " fill="none" id="Natural Cloth-to-Puni Leather" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="702.194,1096.789,696.345,1088.8651,697.8467,1094.3189,692.3929,1095.8207,702.194,1096.789" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d35952240eb9903414394f5e95e7a130]
+link Thorny Embrace to Poison Smoke--><g id="link_Thorny Embrace_Poison Smoke"><path d="M375.564,1130.402 C375.023,1152.127 374.102,1189.123 373.523,1212.355 " fill="none" id="Thorny Embrace-to-Poison Smoke" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="373.398,1217.378,377.6205,1208.4802,373.5223,1212.3795,369.6229,1208.2814,373.398,1217.378" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c2a305c03cf07b7847573da12e020a7c]
+link Beastial Air to Knapsack--><g id="link_Beastial Air_Knapsack"><path d="M556.387,1127.656 C555.485,1149.39 553.8,1190.001 552.801,1214.071 " fill="none" id="Beastial Air-to-Knapsack" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="552.587,1219.232,556.9564,1210.4054,552.7941,1214.2363,548.9633,1210.074,552.587,1219.232" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[1d7410987d7e72a5d03860d27ec79701]
+link Beastial Air to Sorcery Rose--><g id="link_Beastial Air_Sorcery Rose"><path d="M577.583,1126.714 C592.525,1136.841 613.161,1151.004 631,1163.88 C654.691,1180.98 681.274,1201.174 699.75,1215.374 " fill="none" id="Beastial Air-to-Sorcery Rose" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="703.798,1218.49,699.1055,1209.8309,699.8357,1215.4404,694.2261,1216.1706,703.798,1218.49" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[ce79847c7c7f9274edea6f4adcf6312d]
+link Poison Smoke to Heroic Geist--><g id="link_Poison Smoke_Heroic Geist"><path d="M372.321,1251.495 C371.643,1267.615 370.597,1292.462 369.86,1309.955 " fill="none" id="Poison Smoke-to-Heroic Geist" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="369.642,1315.13,374.0165,1306.3059,369.852,1310.1344,366.0235,1305.9699,369.642,1315.13" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[41aa6d633bdf21cb6caf8c1f428352d9]
+link Knapsack to Exploration Set--><g id="link_Knapsack_Exploration Set"><path d="M551.705,1249.398 C551.382,1264.74 550.859,1289.563 550.478,1307.688 " fill="none" id="Knapsack-to-Exploration Set" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="550.364,1313.08,554.5534,1304.1666,550.4697,1308.0811,546.5552,1303.9974,550.364,1313.08" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[98e128314ed173d616b72ee7f0cf9abb]
+link Sorcery Rose to Wind Shoes--><g id="link_Sorcery Rose_Wind Shoes"><path d="M723.991,1251.067 C725.016,1267.306 726.622,1292.724 727.738,1310.392 " fill="none" id="Sorcery Rose-to-Wind Shoes" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="728.067,1315.608,731.4934,1306.3744,727.7527,1310.6179,723.5092,1306.8772,728.067,1315.608" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[9d6c5936a4d04d912b0e52247b0ca9a5]
+link Bomb to Rose Bomb--><g id="link_Bomb_Rose Bomb"><path d="M2974,173.13 C2974,189.53 2974,217.05 2974,235.7 " fill="none" id="Bomb-to-Rose Bomb" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2974,240.71,2978,231.71,2974,235.71,2970,231.71,2974,240.71" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e8da65f8166a57a43213730957453f5a]
+link Rose Bomb to Fire Bottle--><g id="link_Rose Bomb_Fire Bottle"><path d="M2974,272.22 C2974,288.4 2974,314.36 2974,332.34 " fill="none" id="Rose Bomb-to-Fire Bottle" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2974,337.64,2978,328.64,2974,332.64,2970,328.64,2974,337.64" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[11b29c5f7639dd87a4361ec826f78970]
+link Explosive Uni to Craft--><g id="link_Explosive Uni_Craft"><path d="M2732.95,174.8 C2719.51,192 2697.82,219.77 2683.74,237.8 " fill="none" id="Explosive Uni-to-Craft" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2680.33,242.16,2689.0164,237.5181,2683.4027,238.2155,2682.7052,232.6019,2680.33,242.16" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[6129b5c8f14c61cac72c2f1a10865d70]
+link Explosive Uni to Ice Caltrop--><g id="link_Explosive Uni_Ice Caltrop"><path d="M2755.12,174.8 C2766.15,191.61 2783.8,218.51 2795.64,236.55 " fill="none" id="Explosive Uni-to-Ice Caltrop" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2798.52,240.94,2796.9328,231.2199,2795.7795,236.7579,2790.2415,235.6046,2798.52,240.94" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a0a6cdfd42d7e39b229913857e3d3fc9]
+link Ice Caltrop to Ice Bomb--><g id="link_Ice Caltrop_Ice Bomb"><path d="M2808.47,272.22 C2808.99,288.59 2809.82,314.97 2810.39,332.97 " fill="none" id="Ice Caltrop-to-Ice Bomb" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2810.55,338.26,2814.2653,329.1388,2810.3929,333.2625,2806.2693,329.3901,2810.55,338.26" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[7e921da865d3633cf8a79d5050ca1287]
+link Ice Bomb to Kleid Ice Bomb--><g id="link_Ice Bomb_Kleid Ice Bomb"><path d="M2816.9,368.55 C2823.54,384.47 2834.38,410.5 2842.06,428.92 " fill="none" id="Ice Bomb-to-Kleid Ice Bomb" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2844.13,433.9,2844.35,424.0536,2842.2019,429.2867,2836.9687,427.1386,2844.13,433.9" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c763db9df5906e9769d19a9dd371484a]
+link Kleid Ice Bomb to Vanish Siegel--><g id="link_Kleid Ice Bomb_Vanish Siegel"><path d="M2833.7,468.67 C2815.84,485.47 2788,511.68 2769.15,529.41 " fill="none" id="Kleid Ice Bomb-to-Vanish Siegel" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2765.04,533.28,2774.3353,530.0245,2768.681,529.8532,2768.8523,524.1989,2765.04,533.28" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[98ad7060c2905ba8fe1631f43ae65124]
+link Ratsel Luft to Vanish Siegel--><g id="link_Ratsel Luft_Vanish Siegel"><path d="M2686.24,466.96 C2699.02,483.54 2719.94,510.68 2734.08,529.02 " fill="none" id="Ratsel Luft-to-Vanish Siegel" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2737.16,533.03,2734.8448,523.4571,2734.1121,529.0663,2728.5029,528.3337,2737.16,533.03" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[18b3874d9b71dff98fecab5e930daa3b]
+link Luft to Ratsel Luft--><g id="link_Luft_Ratsel Luft"><path d="M2675,368.13 C2675,384.53 2675,412.05 2675,430.7 " fill="none" id="Luft-to-Ratsel Luft" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2675,435.71,2679,426.71,2675,430.71,2671,426.71,2675,435.71" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[7f716dfce7c4b2cbbb1691d8e01b7611]
+link Plajig to Strahl Plajig--><g id="link_Plajig_Strahl Plajig"><path d="M2996.99,466.13 C2992.23,482.44 2984.27,509.74 2978.83,528.38 " fill="none" id="Plajig-to-Strahl Plajig" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2977.37,533.39,2983.73,525.87,2978.77,528.59,2976.05,523.63,2977.37,533.39" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[f562307144112e8ea3005c745c4b8e6f]
+link Fire Bottle to Plajig--><!--MD5=[0f1d42f6383ba50b74b31f573be4d0ac]
+link Polish Powder to Energy Pendant--><g id="link_Polish Powder_Energy Pendant"><path d="M2361.3,175.23 C2346.25,191.47 2322.77,216.8 2306.24,234.63 " fill="none" id="Polish Powder-to-Energy Pendant" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2302.62,238.53,2311.67,234.6445,2306.0173,234.8615,2305.8004,229.2088,2302.62,238.53" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bbe1364e6972498a0b958cd1339a0eb4]
+link Polish Powder to Pearl Crystal--><g id="link_Polish Powder_Pearl Crystal"><path d="M2391.36,175.23 C2407.66,192.07 2433.43,218.66 2450.76,236.55 " fill="none" id="Polish Powder-to-Pearl Crystal" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2454.54,240.45,2451.1532,231.2018,2451.0619,236.8579,2445.4058,236.7667,2454.54,240.45" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[633a81732b300e3cbd9f7ff04ae7c719]
+link Pearl Crystal to Amberlite--><g id="link_Pearl Crystal_Amberlite"><path d="M2444.8,271.4 C2414.74,288.81 2363.59,318.44 2332.2,336.63 " fill="none" id="Pearl Crystal-to-Amberlite" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2327.71,339.22,2337.5015,338.1584,2332.0335,336.7086,2333.4833,331.2407,2327.71,339.22" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[058b0570cdd362b5521bd395c1d990a1]
+link Pearl Crystal to Gnardi Ring--><g id="link_Pearl Crystal_Gnardi Ring"><path d="M2469.16,272.64 C2469.33,288.9 2469.6,314.69 2469.79,332.52 " fill="none" id="Pearl Crystal-to-Gnardi Ring" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2469.85,337.78,2473.7469,328.7349,2469.7929,332.7803,2465.7474,328.8263,2469.85,337.78" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[1c47eb0ebea4acdb069539c595d0e4a0]
+link Amberlite to Quartz Necklace--><g id="link_Amberlite_Quartz Necklace"><path d="M2302.49,368.55 C2299.74,384.09 2295.28,409.26 2292.04,427.58 " fill="none" id="Amberlite-to-Quartz Necklace" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2291.16,432.56,2296.6659,424.3939,2292.0306,427.6364,2288.7881,423.001,2291.16,432.56" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[ebadab450dea7eb03c43468dbb38cc18]
+link Amberlite to Spirinite--><g id="link_Amberlite_Spirinite"><path d="M2326.09,367.53 C2354.36,385.15 2404.43,416.36 2434.39,435.04 " fill="none" id="Amberlite-to-Spirinite" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2438.65,437.7,2433.1257,429.5464,2434.406,435.0564,2428.8959,436.3368,2438.65,437.7" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3c3b0266e6909496c71b8940554b2cc5]
+link Spirinite to Heated Bangle--><g id="link_Spirinite_Heated Bangle"><path d="M2434.94,464.54 C2401.64,481.36 2341.33,511.83 2303.32,531.04 " fill="none" id="Spirinite-to-Heated Bangle" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2298.8,533.32,2308.6363,532.8225,2303.2606,531.0611,2305.022,525.6854,2298.8,533.32" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2c2698edfd462f88be3658a5c4307bc5]
+link Spirinite to Saint's Diamond--><g id="link_Spirinite_Saint's Diamond"><path d="M2458.86,466.13 C2458.69,481.77 2458.43,507.53 2458.23,526.06 " fill="none" id="Spirinite-to-Saint's Diamond" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2458.18,531.08,2462.2826,522.1263,2458.2371,526.0803,2454.2831,522.0349,2458.18,531.08" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[b7055f078a37fd34a8d321c118f31670]
+link Saint's Diamond to Arc en Ciel--><g id="link_Saint's Diamond_Arc en Ciel"><path d="M2432.01,566.5 C2411.9,579.27 2383.6,597.89 2360,615.88 C2337.64,632.93 2313.46,654.25 2297.19,669.06 " fill="none" id="Saint's Diamond-to-Arc en Ciel" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2293.24,672.67,2302.5806,669.5469,2296.9293,669.2953,2297.181,663.644,2293.24,672.67" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[49931250a9ae15b6aa57e315b79a74de]
+link Saint's Diamond to Fairystone Chain--><g id="link_Saint's Diamond_Fairystone Chain"><path d="M2458,567.39 C2458,591.78 2458,636.74 2458,664.01 " fill="none" id="Saint's Diamond-to-Fairystone Chain" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2458,669.22,2462,660.22,2458,664.22,2454,660.22,2458,669.22" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[0d1054d0cdb8168b0ecc3b525139f103]
+link Arc en Ciel to Elixir Ring--><g id="link_Arc en Ciel_Elixir Ring"><path d="M2278,703.69 C2278,720.49 2278,747.97 2278,766.59 " fill="none" id="Arc en Ciel-to-Elixir Ring" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2278,772.07,2282,763.07,2278,767.07,2274,763.07,2278,772.07" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[1a23d7bae3ef2df4276fe2e6aac32c56]
+link Boltwind Earring to Frostfire Earring--><g id="link_Boltwind Earring_Frostfire Earring"><path d="M2094,371.99 C2094,387.59 2094,410.46 2094,427.48 " fill="none" id="Boltwind Earring-to-Frostfire Earring" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2094,432.56,2098,423.56,2094,427.56,2090,423.56,2094,432.56" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[39aa6cee48b9020b8107dc53f645f1db]
+link Master Leather to Godspeed Boots--><g id="link_Master Leather_Godspeed Boots"><path d="M2099.78,176.1 C2098.64,191.78 2096.92,215.34 2095.65,232.7 " fill="none" id="Master Leather-to-Godspeed Boots" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2095.28,237.88,2099.9357,229.2011,2095.6504,232.8937,2091.9577,228.6084,2095.28,237.88" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[8dc2c5acd1550b26ec6c5bf7f3f222cd]
+link Godspeed Boots to Boltwind Earring--><!--MD5=[bd135080af35b42f016854749bd68215]
+link Ingot to Bronze Eisen--><g id="link_Ingot_Bronze Eisen"><path d="M1460.46,702.44 C1452.51,718.93 1439.01,746.94 1429.81,766.03 " fill="none" id="Ingot-to-Bronze Eisen" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1427.57,770.68,1435.0759,764.3034,1429.7374,766.1742,1427.8666,760.8356,1427.57,770.68" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[80dc3abb048b162ef2514c03fb1a17c6]
+link Ingot to Reaper's Scythe--><g id="link_Ingot_Reaper's Scythe"><path d="M1484.2,701.03 C1507.38,717.41 1548.94,746.78 1576.75,766.42 " fill="none" id="Ingot-to-Reaper's Scythe" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1581.09,769.49,1576.0463,761.0306,1577.006,766.6055,1571.4311,767.5651,1581.09,769.49" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c07426b0a2dadbaef89f89d9cdaa5c70]
+link Bronze Eisen to Compass--><g id="link_Bronze Eisen_Compass"><path d="M1402.97,803.49 C1375.72,827.65 1322.49,874.87 1293.67,900.44 " fill="none" id="Bronze Eisen-to-Compass" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1289.6,904.05,1298.9898,901.0782,1293.3433,900.7353,1293.6862,895.0888,1289.6,904.05" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a8c192a7f17897a16ec4e236c3d7c0fc]
+link Bronze Eisen to Staltium--><g id="link_Bronze Eisen_Staltium"><path d="M1421.69,804 C1424.27,827.87 1429.18,873.33 1431.96,899.01 " fill="none" id="Bronze Eisen-to-Staltium" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1432.52,904.17,1435.5194,894.789,1431.9772,899.1995,1427.5667,895.6574,1432.52,904.17" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[57906b8ba83ec91b22e82a60f529372c]
+link Reaper's Scythe to Scythe Axe--><g id="link_Reaper's Scythe_Scythe Axe"><path d="M1605,806.11 C1605,830.17 1605,873.02 1605,898.09 " fill="none" id="Reaper's Scythe-to-Scythe Axe" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1605,903.16,1609,894.16,1605,898.16,1601,894.16,1605,903.16" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[6c07947257dd16149418c065a5529949]
+link Compass to Loupe Compass--><g id="link_Compass_Loupe Compass"><path d="M1272.33,934.005 C1270.55,949.017 1267.72,972.966 1265.64,990.541 " fill="none" id="Compass-to-Loupe Compass" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1265.02,995.773,1270.048,987.3043,1265.6064,990.8075,1262.1032,986.366,1265.02,995.773" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[79808cb58b8cef2c066526903ae8e493]
+link Staltium to Criminea--><g id="link_Staltium_Criminea"><path d="M1434,933.602 C1434,949.446 1434,975.618 1434,993.525 " fill="none" id="Staltium-to-Criminea" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1434,998.796,1438,989.796,1434,993.796,1430,989.796,1434,998.796" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[87a90dca3116fa42017b0ddfe41f9ce2]
+link Staltium to Norden Brand--><g id="link_Staltium_Norden Brand"><path d="M1455.91,932.23 C1484.65,948.43 1535.26,976.955 1567.95,995.377 " fill="none" id="Staltium-to-Norden Brand" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1572.63,998.019,1566.7566,990.1131,1568.2751,995.5623,1562.8259,997.0809,1572.63,998.019" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[8e1efc5b2f9350d46c76de226239d420]
+link Criminea to Astronomical Clock--><g id="link_Criminea_Astronomical Clock"><path d="M1434,1029.045 C1434,1044.076 1434,1068.113 1434,1086.255 " fill="none" id="Criminea-to-Astronomical Clock" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1434,1091.68,1438,1082.68,1434,1086.68,1430,1082.68,1434,1091.68" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[b0991ebabd1e44360b2662f7dec78543]
+link Goldoterion to Baron's Crown--><g id="link_Goldoterion_Baron's Crown"><path d="M1241,704.11 C1241,720.42 1241,746.43 1241,764.83 " fill="none" id="Goldoterion-to-Baron's Crown" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1241,770.28,1245,761.28,1241,765.28,1237,761.28,1241,770.28" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[810747f16f89716ba754553efad60a4b]
+link Grass Beans to Blessing Ointment--><g id="link_Grass Beans_Blessing Ointment"><path d="M2979.59,703.48 C2958.93,719.85 2925.25,746.55 2901.71,765.21 " fill="none" id="Grass Beans-to-Blessing Ointment" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2897.73,768.36,2907.2688,765.9081,2901.6496,765.2558,2902.302,759.6366,2897.73,768.36" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3a0e85ba525ddef0e62f8248b2e2cf7e]
+link Grass Beans to Dry Biscuit--><g id="link_Grass Beans_Dry Biscuit"><path d="M3007.84,704.11 C3018.88,721.2 3036.8,748.92 3048.74,767.4 " fill="none" id="Grass Beans-to-Dry Biscuit" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="3051.64,771.89,3050.1145,762.16,3048.9261,767.6906,3043.3955,766.5022,3051.64,771.89" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[6daae905c4cbffa40709984367688946]
+link Dry Biscuit to Puni Jelly--><g id="link_Dry Biscuit_Puni Jelly"><path d="M3061,802.98 C3061,826.33 3061,872.08 3061,898.25 " fill="none" id="Dry Biscuit-to-Puni Jelly" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="3061,903.53,3065,894.53,3061,898.53,3057,894.53,3061,903.53" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[61f3a85ce299a1cc2560412d56a3a196]
+link Rasen Pudding to Cocktail Leb--><g id="link_Rasen Pudding_Cocktail Leb"><path d="M2875,936.079 C2875,951.832 2875,975.801 2875,992.766 " fill="none" id="Rasen Pudding-to-Cocktail Leb" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2875,997.789,2879,988.789,2875,992.789,2871,988.789,2875,997.789" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[179900bce8689a8d8ca28a80e978d224]
+link Restoration Bottle to Nectar--><g id="link_Restoration Bottle_Nectar"><path d="M2740.9,708.14 C2733.62,725.44 2723.01,750.68 2715.82,767.78 " fill="none" id="Restoration Bottle-to-Nectar" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2713.71,772.8,2720.8713,766.0386,2715.6381,768.1867,2713.49,762.9536,2713.71,772.8" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[79cd88eb7888592b04044dda52bf9f22]
+link Nectar to Elixir--><g id="link_Nectar_Elixir"><path d="M2708,802.24 C2708,825.51 2708,872.47 2708,898.83 " fill="none" id="Nectar-to-Elixir" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2708,904.12,2712,895.12,2708,899.12,2704,895.12,2708,904.12" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[6d2cc781d8d847cac5411cd028cbb141]
+link Blessing Ointment to Rasen Pudding--><!--MD5=[5dd695895264974de972056c982e6b7a]
+link Mixing Oil to Alchemy Paint--><g id="link_Mixing Oil_Alchemy Paint"><path d="M2654.52,1249.398 C2642.58,1265.385 2622.93,1291.668 2609.28,1309.938 " fill="none" id="Mixing Oil-to-Alchemy Paint" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2605.94,1314.399,2614.5345,1309.5892,2608.9354,1310.3956,2608.129,1304.7965,2605.94,1314.399" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e9f4226b9299ceee04d4e4900cbd0e1b]
+link Mixing Oil to Fish Oil--><g id="link_Mixing Oil_Fish Oil"><path d="M2677.69,1249.398 C2693.07,1266.384 2718.97,1294.993 2735.51,1313.265 " fill="none" id="Mixing Oil-to-Fish Oil" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2739.09,1317.224,2736.0067,1307.8702,2735.731,1313.5204,2730.0808,1313.2447,2739.09,1317.224" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d96e6d6b4ecb6fc294c62df3c6672f9c]
+link Alchemy Paint to Mastery Paint--><g id="link_Alchemy Paint_Mastery Paint"><path d="M2588.44,1348.44 C2581.37,1368.84 2569.16,1404.101 2561.34,1426.689 " fill="none" id="Alchemy Paint-to-Mastery Paint" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2559.64,1431.584,2566.3692,1424.3925,2561.279,1426.8603,2558.8112,1421.7701,2559.64,1431.584" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[8cb38fd0587f297f6a7dba2ef89bbfb7]
+link Alchemy Paint to Spirit Bottle--><g id="link_Alchemy Paint_Spirit Bottle"><path d="M2612.34,1347.957 C2637.39,1369.232 2682.22,1407.298 2708.72,1429.804 " fill="none" id="Alchemy Paint-to-Spirit Bottle" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2712.81,1433.277,2708.5474,1424.3984,2709.0019,1430.0369,2703.3633,1430.4914,2712.81,1433.277" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2cd5749693c27ba8b999e02a83e9ae3b]
+link Spirit Bottle to Crystal Element--><g id="link_Spirit Bottle_Crystal Element"><path d="M2727.5,1465.192 C2724.85,1481.431 2720.64,1507.236 2717.62,1525.699 " fill="none" id="Spirit Bottle-to-Crystal Element" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2716.81,1530.698,2722.2058,1522.4588,2717.6144,1525.7631,2714.31,1521.1717,2716.81,1530.698" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[b296651653c083e754080cb2c3762868]
+link Crystal Element to Philosopher's Stone--><g id="link_Crystal Element_Philosopher's Stone"><path d="M2713.11,1566.996 C2712.1,1586.6 2710.43,1618.882 2709.28,1641.202 " fill="none" id="Crystal Element-to-Philosopher's Stone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2709.01,1646.366,2713.4695,1637.5846,2709.2682,1641.3727,2705.4801,1637.1714,2709.01,1646.366" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[ec892e6acc0dcde583720c7db2c5f539]
+link Gunpowder Base to Blue Flame Ember--><g id="link_Gunpowder Base_Blue Flame Ember"><path d="M1717.36,1467.4 C1717.68,1483.167 1718.15,1506.474 1718.51,1523.954 " fill="none" id="Gunpowder Base-to-Blue Flame Ember" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1718.62,1529.177,1722.4366,1520.0977,1718.5186,1524.178,1714.4383,1520.26,1718.62,1529.177" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[dc4ca7caa201299ab79d2036cc23a56d]
+link Red Stone to Crimson Stone--><g id="link_Red Stone_Crimson Stone"><path d="M1719,1682.045 C1719,1697.738 1719,1723.247 1719,1741.616 " fill="none" id="Red Stone-to-Crimson Stone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1719,1747.069,1723,1738.069,1719,1742.069,1715,1738.069,1719,1747.069" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[dfd5127abdfd82d80600b4a06d7491fc]
+link Flour to Delicious Bait--><g id="link_Flour_Delicious Bait"><path d="M2272.84,1248.991 C2266.8,1264.936 2256.73,1291.511 2249.75,1309.937 " fill="none" id="Flour-to-Delicious Bait" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2247.87,1314.902,2254.8012,1307.905,2249.6428,1310.2268,2247.321,1305.0685,2247.87,1314.902" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2cc7b90019856e8be0cf9339bbc1843d]
+link Flour to Poison Cube--><g id="link_Flour_Poison Cube"><path d="M2295.32,1247.22 C2319.5,1263.744 2363.53,1293.838 2391.47,1312.934 " fill="none" id="Flour-to-Poison Cube" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2395.81,1315.901,2390.6278,1307.5258,2391.679,1313.0841,2386.1207,1314.1354,2395.81,1315.901" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a92a7ffdc8bd991b167b6b75a660034d]
+link Delicious Bait to Powerful Fish Bait--><g id="link_Delicious Bait_Powerful Fish Bait"><path d="M2235.53,1347.957 C2227.26,1367.847 2212.9,1402.413 2203.42,1425.22 " fill="none" id="Delicious Bait-to-Powerful Fish Bait" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2201.47,1429.899,2208.6188,1423.1244,2203.3896,1425.2822,2201.2319,1420.053,2201.47,1429.899" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bd229cc01b6264e5912e5ebc56e26448]
+link Poison Cube to Taboo Drop--><g id="link_Poison Cube_Taboo Drop"><path d="M2412.16,1347.48 C2405.57,1368.059 2393.75,1404.963 2386.42,1427.84 " fill="none" id="Poison Cube-to-Taboo Drop" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2384.84,1432.777,2391.3975,1425.4286,2386.367,1428.0159,2383.7797,1422.9854,2384.84,1432.777" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[18ef133e6684c98d8bb9b62f4b2c5450]
+link Taboo Drop to Holy Drop--><g id="link_Taboo Drop_Holy Drop"><path d="M2380,1465.192 C2380,1482.17 2380,1509.605 2380,1528.173 " fill="none" id="Taboo Drop-to-Holy Drop" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2380,1533.63,2384,1524.63,2380,1528.63,2376,1524.63,2380,1533.63" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[51bf991602196b23b2c8536b8e48f62e]
+link Honey to Eltz Sugar--><g id="link_Honey_Eltz Sugar"><path d="M1957.9,1248.589 C1942.62,1265.274 1916.28,1294.044 1899.25,1312.634 " fill="none" id="Honey-to-Eltz Sugar" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1895.56,1316.668,1904.5817,1312.7172,1898.9307,1312.975,1898.6729,1307.324,1895.56,1316.668" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2e5d0cd6c0d03cae753b136e57b52720]
+link Honey to Sundry Remedy--><g id="link_Honey_Sundry Remedy"><path d="M1982.24,1248.589 C1996.81,1264.326 2021.35,1290.813 2038.54,1309.371 " fill="none" id="Honey-to-Sundry Remedy" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="2042.31,1313.437,2039.1336,1304.1144,2038.9142,1309.767,2033.2616,1309.5477,2042.31,1313.437" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[ad931c738aeb7ea52d9f738fff5051c4]
+link Eltz Sugar to War Powder--><g id="link_Eltz Sugar_War Powder"><path d="M1886.19,1346.543 C1890.78,1366.927 1899.27,1404.635 1904.49,1427.862 " fill="none" id="Eltz Sugar-to-War Powder" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1905.62,1432.869,1907.5421,1423.2095,1904.5201,1427.9915,1899.7381,1424.9694,1905.62,1432.869" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[1b220af6f45841274f643e2304bb243c]
+link War Powder to Miracle Ebonyal--><g id="link_War Powder_Miracle Ebonyal"><path d="M1910.25,1465.192 C1911.58,1481.431 1913.68,1507.236 1915.19,1525.699 " fill="none" id="War Powder-to-Miracle Ebonyal" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1915.6,1530.698,1918.852,1521.4015,1915.1919,1525.7147,1910.8787,1522.0545,1915.6,1530.698" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[0d024d6d97f4621df7e2b9f1d0309fdf]
+link Lightning Bell to Lightning Sand--><g id="link_Lightning Bell_Lightning Sand"><path d="M1710,1251.495 C1710,1267.231 1710,1291.284 1710,1308.693 " fill="none" id="Lightning Bell-to-Lightning Sand" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1710,1313.866,1714,1304.866,1710,1308.866,1706,1304.866,1710,1313.866" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a4f39fb373c8f68ef9b95886cedf46be]
+link Lightning Sand to Gunpowder Base--><!--MD5=[1b1ce3b7db4470f36d5fef4628dd7ebe]
+link Blue Flame Ember to Red Stone--><!--MD5=[e2409e3801ab856153e7ead3d8d2986d]
+link Hammer to Bomb Hammer--><g id="link_Hammer_Bomb Hammer"><path d="M85.8655,1681.634 C89.1631,1697.463 94.6203,1723.657 98.489,1742.228 " fill="none" id="Hammer-to-Bomb Hammer" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="99.535,1747.249,101.6152,1737.6223,98.5152,1742.3541,93.7834,1739.2541,99.535,1747.249" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[356eefe0dc53bb9cb92b2e6df579203b]
+link Zettel to Traveler's Water Orb--><g id="link_Zettel_Traveler's Water Orb"><path d="M369,1463.506 C369,1478.698 369,1503.602 369,1522.425 " fill="none" id="Zettel-to-Traveler's Water Orb" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="369,1527.559,373,1518.559,369,1522.559,365,1518.559,369,1527.559" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[7511ff8182eb0c04e1415fbcf2c9ff3b]
+link Traveler's Water Orb to Delphi Rose Incense--><g id="link_Traveler's Water Orb_Delphi Rose Incense"><path d="M351.358,1569.558 C333.245,1589.761 305.065,1621.192 285.859,1642.614 " fill="none" id="Traveler's Water Orb-to-Delphi Rose Incense" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="282.382,1646.493,291.3678,1642.4613,285.7194,1642.7699,285.4108,1637.1214,282.382,1646.493" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[90af7dde1a68c53a9c5e5b087e702f9d]
+link Traveler's Water Orb to Mist Liquid--><g id="link_Traveler's Water Orb_Mist Liquid"><path d="M383.956,1569.821 C400.444,1591.805 426.727,1626.85 442.576,1647.982 " fill="none" id="Traveler's Water Orb-to-Mist Liquid" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="445.601,1652.015,443.401,1642.415,442.601,1648.015,437.001,1647.215,445.601,1652.015" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d2da5d598505d7dfa05701e1487cf09e]
+link Delphi Rose Incense to Glass Flower--><g id="link_Delphi Rose Incense_Glass Flower"><path d="M268.522,1687.771 C271.406,1704.054 275.469,1727 278.379,1743.432 " fill="none" id="Delphi Rose Incense-to-Glass Flower" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="279.318,1748.736,281.6885,1739.1767,278.4467,1743.8125,273.8109,1740.5707,279.318,1748.736" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bbb6305e6db6ac2c2ae8619149eda7d9]
+link Glass Flower to Mirage Loupe--><g id="link_Glass Flower_Mirage Loupe"><path d="M282,1781.072 C282,1796.427 282,1820.2598 282,1837.3034 " fill="none" id="Glass Flower-to-Mirage Loupe" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="282,1842.358,286,1833.358,282,1837.358,278,1833.358,282,1842.358" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d51b43f95786e9963bba3b386f82d326]
+link Fishing Rod to Fishing Rod Net--><g id="link_Fishing Rod_Fishing Rod Net"><path d="M105,1464.764 C105,1481.013 105,1507.2 105,1525.835 " fill="none" id="Fishing Rod-to-Fishing Rod Net" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="105,1530.876,109,1521.876,105,1525.876,101,1521.876,105,1530.876" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c31849953572abe51303a39657e37ff4]
+link Fishing Rod Net to Hammer--><!--MD5=[9177770a2119794dff323362d19ec475]
+link Leather Protector to Border Scale--><g id="link_Leather Protector_Border Scale"><path d="M644.928,177.89 C646.625,194.18 649.094,217.88 650.854,234.77 " fill="none" id="Leather Protector-to-Border Scale" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="651.375,239.78,654.428,230.4163,650.8607,234.8065,646.4704,231.2392,651.375,239.78" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[1da7a39c830d8bd7c83418ed2ba7cdea]
+link Border Scale to Radiant Plate--><g id="link_Border Scale_Radiant Plate"><path d="M653,273.07 C653,289.02 653,313.83 653,331.45 " fill="none" id="Border Scale-to-Radiant Plate" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="653,336.67,657,327.67,653,331.67,649,327.67,653,336.67" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e867b1cfb36772713f5a2db7f5edaba8]
+link Radiant Plate to Frost Armor--><g id="link_Radiant Plate_Frost Armor"><path d="M653,370.23 C653,386.55 653,412.03 653,429.87 " fill="none" id="Radiant Plate-to-Frost Armor" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="653,435.14,657,426.14,653,430.14,649,426.14,653,435.14" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[fd229d491abf4a738286f16c0f0c29fa]
+link Frost Armor to Golden Mail--><g id="link_Frost Armor_Golden Mail"><path d="M654.25,467.38 C655.62,483.82 657.824,510.27 659.339,528.45 " fill="none" id="Frost Armor-to-Golden Mail" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="659.785,533.8,663.0255,524.4995,659.3707,528.8172,655.053,525.1624,659.785,533.8" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d317f06027a65c8b0c1181a26dd649ca]
+link Golden Mail to Fortress Armor--><g id="link_Golden Mail_Fortress Armor"><path d="M660.037,564.99 C658.449,589.07 655.273,637.24 653.425,665.27 " fill="none" id="Golden Mail-to-Fortress Armor" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="653.096,670.26,657.6789,661.5423,653.4246,665.2708,649.6962,661.0166,653.096,670.26" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3adc99cd0816ca2dd8349adc35375516]
+link Fortress Armor to Stark Cologne--><g id="link_Fortress Armor_Stark Cologne"><path d="M627.097,704.55 C599.397,721.97 554.725,750.07 525.611,768.38 " fill="none" id="Fortress Armor-to-Stark Cologne" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="521.077,771.24,530.8242,769.8289,525.308,768.5756,526.5613,763.0594,521.077,771.24" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[40e5f05d37516a73600b27c737156f94]
+link Sage's Cloak to Stark Cologne--><g id="link_Sage's Cloak_Stark Cologne"><path d="M475.906,704.11 C480.124,720.56 486.872,746.88 491.597,765.31 " fill="none" id="Sage's Cloak-to-Stark Cologne" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="492.872,770.28,494.5092,760.5682,491.6291,765.4369,486.7603,762.5568,492.872,770.28" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[73a52bbff3ecef112eb4281074d77011]
+link Darkness Dress to Sage's Cloak--><g id="link_Darkness Dress_Sage's Cloak"><path d="M481.651,567.12 C479.629,592.21 475.817,639.52 473.638,666.56 " fill="none" id="Darkness Dress-to-Sage's Cloak" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="473.225,671.68,477.9321,663.0288,473.625,666.696,469.9578,662.3889,473.225,671.68" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a925e3e5e253bf783bc81c7716eabfcf]
+link Fairy Cloak to Darkness Dress--><g id="link_Fairy Cloak_Darkness Dress"><path d="M476.215,466.96 C477.53,482.74 479.643,508.09 481.161,526.32 " fill="none" id="Fairy Cloak-to-Darkness Dress" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="481.612,531.72,484.8525,522.4195,481.1977,526.7372,476.88,523.0824,481.612,531.72" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[f2cde72831d88147a9ee54082a70970e]
+link Chain Vest to Fairy Cloak--><g id="link_Chain Vest_Fairy Cloak"><path d="M440.227,368.96 C447.271,385.45 458.778,412.4 466.61,430.73 " fill="none" id="Chain Vest-to-Fairy Cloak" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="468.714,435.66,468.8701,425.8124,466.756,431.0593,461.509,428.9452,468.714,435.66" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[84449e1fa928bf0e0862cf2c318d79e4]
+link Chain Vest to Skuller Coat--><g id="link_Chain Vest_Skuller Coat"><path d="M414.085,368.13 C389.288,385.26 346.919,414.52 319.973,433.13 " fill="none" id="Chain Vest-to-Skuller Coat" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="315.786,436.02,325.4647,434.1969,319.9002,433.1786,320.9185,427.6142,315.786,436.02" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[9fda4fc5948d08fcc14d6b7f9c8f2d1a]
+link Kurken Sweats to Chain Vest--><g id="link_Kurken Sweats_Chain Vest"><path d="M465.381,273.93 C458.772,290.45 448.624,315.82 441.669,333.21 " fill="none" id="Kurken Sweats-to-Chain Vest" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="439.797,337.89,446.8534,331.0193,441.654,333.2476,439.4256,328.0481,439.797,337.89" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[25113b7cc1f4570419494edc954e2abf]
+link Noble Tunic to Chain Vest--><g id="link_Noble Tunic_Chain Vest"><path d="M315.81,271.6 C340.827,288.7 382.76,317.36 409.368,335.55 " fill="none" id="Noble Tunic-to-Chain Vest" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="413.502,338.37,408.3283,329.9895,409.3739,335.5489,403.8145,336.5945,413.502,338.37" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2ddf9350698bb55ffee942fc3c25fc64]
+link Noble Tunic to Skuller Coat--><g id="link_Noble Tunic_Skuller Coat"><path d="M295,272.52 C295,306.91 295,390.92 295,429.89 " fill="none" id="Noble Tunic-to-Skuller Coat" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="295,435.31,299,426.31,295,430.31,291,426.31,295,435.31" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bfa0d82182f3d6c4e789671431389dfe]
+link Skuller Coat to Charade Lumont--><g id="link_Skuller Coat_Charade Lumont"><path d="M294.375,467.38 C293.73,482.86 292.715,507.23 291.966,525.19 " fill="none" id="Skuller Coat-to-Charade Lumont" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="291.743,530.55,296.125,521.7297,291.9573,525.5546,288.1324,521.3869,291.743,530.55" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[218e1d2c7cb82ddab75c4234b0fe83c1]
+link Stake Hammer to Clairempathy--><g id="link_Stake Hammer_Clairempathy"><path d="M1842,176.1 C1842,192.36 1842,217.1 1842,234.62 " fill="none" id="Stake Hammer-to-Clairempathy" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1842,239.8,1846,230.8,1842,234.8,1838,230.8,1842,239.8" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e653b9db7293f9fa5e4e69347c902f90]
+link Clairempathy to Destruction--><g id="link_Clairempathy_Destruction"><path d="M1842,273.07 C1842,289.21 1842,314.43 1842,332.08 " fill="none" id="Clairempathy-to-Destruction" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1842,337.3,1846,328.3,1842,332.3,1838,328.3,1842,337.3" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[d512aa7f31fb70e4c49b289ef5a465d2]
+link Destruction to Holy Torrent--><g id="link_Destruction_Holy Torrent"><path d="M1842.16,369.38 C1842.33,385.63 1842.6,411.66 1842.79,429.81 " fill="none" id="Destruction-to-Holy Torrent" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1842.84,435.17,1846.7369,426.1249,1842.7829,430.1703,1838.7374,426.2163,1842.84,435.17" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[951400a9a136d2e512fd4bdb48f53516]
+link Holy Torrent to Brave Emblem--><g id="link_Holy Torrent_Brave Emblem"><path d="M1843,467.38 C1843,483.25 1843,508.44 1843,526.51 " fill="none" id="Holy Torrent-to-Brave Emblem" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1843,531.88,1847,522.88,1843,526.88,1839,522.88,1843,531.88" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[98fc6681d4a86e42d8ce6a077ce50dbd]
+link Handmade Staff to Helioprox--><g id="link_Handmade Staff_Helioprox"><path d="M1652.54,176.54 C1653.06,193.26 1653.85,218.63 1654.4,236.05 " fill="none" id="Handmade Staff-to-Helioprox" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1654.56,241.18,1658.3013,232.0694,1654.4172,236.182,1650.3046,232.2979,1654.56,241.18" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[25fe4a0433b0f0d01167151aae11d61c]
+link Helioprox to Grim Quartz--><g id="link_Helioprox_Grim Quartz"><path d="M1655.44,271.4 C1655.95,287.39 1656.78,313.7 1657.36,331.97 " fill="none" id="Helioprox-to-Grim Quartz" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1657.53,337.36,1661.2453,328.2388,1657.3729,332.3625,1653.2493,328.4901,1657.53,337.36" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[08ba0fa492d179192df8f73fa5af9e7f]
+link Grim Quartz to Rune Code--><g id="link_Grim Quartz_Rune Code"><path d="M1658.78,369.38 C1659.64,385.82 1661.02,412.27 1661.96,430.45 " fill="none" id="Grim Quartz-to-Rune Code" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1662.24,435.8,1665.7725,426.6064,1661.9832,430.8066,1657.783,427.0173,1662.24,435.8" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bd9816cae9946d8d2e6d3549e06bd300]
+link Rune Code to Celestial Seeker--><g id="link_Rune Code_Celestial Seeker"><path d="M1661.63,466.96 C1660.18,482.46 1657.86,507.18 1656.16,525.32 " fill="none" id="Rune Code-to-Celestial Seeker" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1655.66,530.72,1660.4918,522.1378,1656.132,525.7423,1652.5275,521.3826,1655.66,530.72" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[044ac5f17611c65bbcd95237a1411d24]
+link Weathered Sword to Colossal Edge--><g id="link_Weathered Sword_Colossal Edge"><path d="M1455.13,177.44 C1456.14,193.58 1457.62,217.25 1458.68,234.27 " fill="none" id="Weathered Sword-to-Colossal Edge" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1459,239.32,1462.4259,230.0862,1458.6854,234.3299,1454.4417,230.5895,1459,239.32" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[4f7c22801b754336b9c3af8bb37fbedb]
+link Colossal Edge to Initiator--><g id="link_Colossal Edge_Initiator"><path d="M1461.02,273.5 C1462.07,290.09 1463.7,315.95 1464.81,333.5 " fill="none" id="Colossal Edge-to-Initiator" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1465.13,338.66,1468.5559,329.4262,1464.8154,333.6699,1460.5717,329.9295,1465.13,338.66" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2545b9972e3b3d4f659e4b5fb35a3a81]
+link Initiator to Schwartz Thruster--><g id="link_Initiator_Schwartz Thruster"><path d="M1467.72,368.13 C1469.63,383.39 1472.74,408.29 1475.04,426.7 " fill="none" id="Initiator-to-Schwartz Thruster" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1475.67,431.7,1478.5328,422.2764,1475.0551,426.738,1470.5936,423.2602,1475.67,431.7" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[80da7001573f3ff87a14b7798ba2daaa]
+link Schwartz Thruster to Lord Guardian--><g id="link_Schwartz Thruster_Lord Guardian"><path d="M1475.88,470.89 C1474.03,486.99 1471.36,510.31 1469.43,527.16 " fill="none" id="Schwartz Thruster-to-Lord Guardian" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1468.86,532.16,1473.8375,523.6615,1469.4169,527.1911,1465.8872,522.7705,1468.86,532.16" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[c4b427c34003955979d98ae6df859759]
+link Practice Flute to Crepusculum--><g id="link_Practice Flute_Crepusculum"><path d="M1262.68,175.67 C1263.35,191.86 1264.39,216.76 1265.13,234.42 " fill="none" id="Practice Flute-to-Crepusculum" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1265.34,239.65,1268.9498,230.4865,1265.1253,234.6546,1260.9572,230.8301,1265.34,239.65" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bea10a9d63146e4fc7cc57b1a1bb0e80]
+link Crepusculum to Virgin Snow--><g id="link_Crepusculum_Virgin Snow"><path d="M1266.5,273.07 C1267.01,289.21 1267.8,314.43 1268.36,332.08 " fill="none" id="Crepusculum-to-Virgin Snow" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1268.52,337.3,1272.2084,328.1679,1268.3482,332.303,1264.2131,328.4428,1268.52,337.3" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3c5a8f122ae3dac3be3118fbd0a71101]
+link Virgin Snow to Concert Mistress--><g id="link_Virgin Snow_Concert Mistress"><path d="M1270.09,369.38 C1271.22,384.86 1273,409.23 1274.31,427.19 " fill="none" id="Virgin Snow-to-Concert Mistress" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1274.7,432.55,1278.0203,423.2777,1274.3285,427.5638,1270.0424,423.872,1274.7,432.55" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3c1a70ba038f36048cad7fe1670237c4]
+link Concert Mistress to Ethereal Tone--><g id="link_Concert Mistress_Ethereal Tone"><path d="M1276,469.99 C1276,486.08 1276,509.91 1276,527.07 " fill="none" id="Concert Mistress-to-Ethereal Tone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1276,532.16,1280,523.16,1276,527.16,1272,523.16,1276,532.16" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[13f34f9123729b584e2f2664b461ecdb]
+link Pilgrimage Staff to Forest Bell--><g id="link_Pilgrimage Staff_Forest Bell"><path d="M1076.97,176.54 C1078.87,193.16 1081.75,218.33 1083.75,235.74 " fill="none" id="Pilgrimage Staff-to-Forest Bell" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1084.34,240.87,1087.2861,231.4721,1083.769,235.9027,1079.3384,232.3856,1084.34,240.87" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[5e2107866a361670384de15d399b7fd8]
+link Forest Bell to Training Path--><g id="link_Forest Bell_Training Path"><path d="M1085.53,272.22 C1085.03,288.11 1084.23,313.45 1083.66,331.38 " fill="none" id="Forest Bell-to-Training Path" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1083.5,336.69,1087.7807,327.8201,1083.6571,331.6925,1079.7847,327.5688,1083.5,336.69" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[5f643ba4875a436f1cd6bd5931d21bf4]
+link Training Path to Holy Arbor Staff--><g id="link_Training Path_Holy Arbor Staff"><path d="M1082.67,370.23 C1082.34,385.97 1081.84,410.23 1081.47,427.94 " fill="none" id="Training Path-to-Holy Arbor Staff" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1081.36,433.21,1085.5392,424.2918,1081.46,428.211,1077.5408,424.1318,1081.36,433.21" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[fb8a84e97673ea1b44a22a955026531c]
+link Holy Arbor Staff to Occult Wisdom--><g id="link_Holy Arbor Staff_Occult Wisdom"><path d="M1081,469.54 C1081,485.48 1081,509.27 1081,526.55 " fill="none" id="Holy Arbor Staff-to-Occult Wisdom" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1081,531.69,1085,522.69,1081,526.69,1077,522.69,1081,531.69" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[6d98d8eb2398f72dfb4486a45641547c]
+link Iron Claws to Krieger's Talon--><g id="link_Iron Claws_Krieger's Talon"><path d="M899.918,173.55 C902.062,189.37 905.557,215.19 908.049,233.59 " fill="none" id="Iron Claws-to-Krieger's Talon" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="908.723,238.57,911.4785,229.1144,908.0517,233.6153,903.5509,230.1885,908.723,238.57" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[72eda13a0d74f003e5a8ae0fbfa2ee99]
+link Krieger's Talon to Hail Crunch--><g id="link_Krieger's Talon_Hail Crunch"><path d="M909.955,273.93 C908.926,290.21 907.355,315.09 906.259,332.45 " fill="none" id="Krieger's Talon-to-Hail Crunch" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="905.935,337.58,910.4928,328.8492,906.2493,332.5899,902.5086,328.3464,905.935,337.58" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[22ecec741afeaf99038c8b2945b86ee5]
+link Hail Crunch to Wind Slicer--><g id="link_Hail Crunch_Wind Slicer"><path d="M904.392,368.96 C903.711,385.31 902.602,411.94 901.838,430.26 " fill="none" id="Hail Crunch-to-Wind Slicer" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="901.613,435.66,905.995,426.8397,901.8273,430.6646,898.0024,426.4969,901.613,435.66" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[bedd0dec6bec71523045c82a8a09a348]
+link Wind Slicer to Oren Herald--><g id="link_Wind Slicer_Oren Herald"><path d="M901.152,466.96 C901.321,483.22 901.596,509.63 901.787,527.94 " fill="none" id="Wind Slicer-to-Oren Herald" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="901.843,533.35,905.7657,524.316,901.8001,528.3502,897.766,524.3846,901.843,533.35" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e20145d48af9b06cba9d582102ba3eb7]
+link Building Material to Composite Plate--><g id="link_Building Material_Composite Plate"><path d="M1407.35,1251.928 C1380.77,1268.428 1339.98,1293.756 1311.98,1311.143 " fill="none" id="Building Material-to-Composite Plate" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1307.6,1313.863,1317.3579,1312.5279,1311.8516,1311.2317,1313.1478,1305.7253,1307.6,1313.863" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[88c45a24ed7bb1bc240ffc9a9823d5f5]
+link Building Material to Healing Chip--><g id="link_Building Material_Healing Chip"><path d="M1440.02,1253.249 C1445.5,1269.518 1453.58,1293.508 1459.27,1310.404 " fill="none" id="Building Material-to-Healing Chip" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1460.96,1315.404,1461.8812,1305.5983,1459.3656,1310.665,1454.2989,1308.1494,1460.96,1315.404" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[332ffffe2dc01fdc7eebffdb05b51c5d]
+link Composite Plate to Holy Nut--><g id="link_Composite Plate_Holy Nut"><path d="M1281.91,1349.922 C1283.02,1371.215 1284.88,1406.985 1286.01,1428.904 " fill="none" id="Composite Plate-to-Holy Nut" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1286.29,1434.161,1289.8172,1424.9654,1286.0304,1429.1677,1281.828,1425.3809,1286.29,1434.161" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[a9a1cbf63dd0cd2312d52fc7146ce5f6]
+link Healing Chip to Resort Woodchip--><g id="link_Healing Chip_Resort Woodchip"><path d="M1465.22,1347.48 C1464.19,1367.149 1462.4,1401.733 1461.2,1424.727 " fill="none" id="Healing Chip-to-Resort Woodchip" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1460.94,1429.734,1465.3995,1420.9526,1461.1982,1424.7407,1457.4101,1420.5394,1460.94,1429.734" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[4f34b2420c097a45a0d2cdaa2560336d]
+link Holy Nut to Exorcism Brooch--><g id="link_Holy Nut_Exorcism Brooch"><path d="M1274.46,1463.097 C1258.93,1479.456 1232.3,1507.516 1213.96,1526.847 " fill="none" id="Holy Nut-to-Exorcism Brooch" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1210.41,1530.59,1219.5056,1526.8125,1213.8507,1526.9622,1213.7011,1521.3073,1210.41,1530.59" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[3bc8325a739ea2eedd0307a7232a12ec]
+link Holy Nut to Plain Lumber--><g id="link_Holy Nut_Plain Lumber"><path d="M1299.54,1463.097 C1315.62,1480.044 1343.62,1509.548 1361.98,1528.896 " fill="none" id="Holy Nut-to-Plain Lumber" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1365.52,1532.623,1362.227,1523.341,1362.0785,1528.9959,1356.4236,1528.8474,1365.52,1532.623" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[aec0ae6520a93706e5086774d7526569]
+link Stone Material to Marblestone--><g id="link_Stone Material_Marblestone"><path d="M1030,1251.928 C1030,1268.115 1030,1292.797 1030,1310.144 " fill="none" id="Stone Material-to-Marblestone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1030,1315.274,1034,1306.274,1030,1310.274,1026,1306.274,1030,1315.274" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[e65e724a1c73d9e3a60b814d6e979d47]
+link Marblestone to Meltstone--><g id="link_Marblestone_Meltstone"><path d="M1018.89,1347.48 C1003.3,1368.663 974.977,1407.147 958.291,1429.82 " fill="none" id="Marblestone-to-Meltstone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="955.316,1433.862,963.8726,1428.985,958.28,1429.8352,957.4298,1424.2427,955.316,1433.862" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[8b0c8100984ef2e4867cdf065db508b5]
+link Marblestone to Royal Tilestone--><g id="link_Marblestone_Royal Tilestone"><path d="M1041.77,1347.48 C1057.64,1367.858 1086,1404.244 1103.86,1427.165 " fill="none" id="Marblestone-to-Royal Tilestone" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1107.07,1431.282,1104.6926,1421.7244,1103.9964,1427.3382,1098.3826,1426.6421,1107.07,1431.282" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[401f40ba680aea996253548f0d6b9a1b]
+link Plant Seed to Stone Seed--><g id="link_Plant Seed_Stone Seed"><path d="M1181.24,1682.46 C1166.48,1699.333 1142.15,1727.142 1126.09,1745.486 " fill="none" id="Plant Seed-to-Stone Seed" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1122.6,1749.477,1131.5393,1745.3431,1125.8947,1745.7161,1125.5218,1740.0715,1122.6,1749.477" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[b832d2897db32cf160eb971b7d12d512]
+link Plant Seed to Water Seed--><g id="link_Plant Seed_Water Seed"><path d="M1206.91,1682.46 C1221.76,1699.235 1246.19,1726.821 1262.43,1745.167 " fill="none" id="Plant Seed-to-Water Seed" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1265.97,1749.162,1262.9982,1739.7722,1262.6553,1745.4187,1257.0088,1745.0758,1265.97,1749.162" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[2bb44e1b75ded1b786cc4ba8b76798be]
+link Stone Seed to Fire Seed--><g id="link_Stone Seed_Fire Seed"><path d="M1110,1780.661 C1110,1796.404 1110,1821.3836 1110,1838.6481 " fill="none" id="Stone Seed-to-Fire Seed" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1110,1843.7396,1114,1834.7396,1110,1838.7396,1106,1834.7396,1110,1843.7396" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[9c7f6526c08b856654472c64e27fc5be]
+link Water Seed to Mystic Seed--><g id="link_Water Seed_Mystic Seed"><path d="M1278.83,1781.072 C1278.67,1796.52 1278.41,1820.5472 1278.22,1837.6107 " fill="none" id="Water Seed-to-Mystic Seed" style="stroke:#D9D3D0;stroke-width:1.0;"/><polygon fill="#D9D3D0" points="1278.17,1842.6655,1282.268,1833.7097,1278.2246,1837.6658,1274.2685,1833.6224,1278.17,1842.6655" style="stroke:#D9D3D0;stroke-width:1.0;"/></g><!--MD5=[b451a8dfc98cb45385296f17c9bec9d4]
+link Stark Cologne to Cloth--><!--MD5=[f14ea3a5bb7905b3b80a34f8ceca4f3f]
+link Elixir Ring to Flour--><!--MD5=[c6ce2cf8ef938c66f104ca22b1892755]
+link Armors to Weapons--><!--MD5=[9173ae774e9a8061598e0f6e3965cef7]
+link Weapons to Accessories--><!--MD5=[924f2ecc15d46b201f60c02b6a7c6031]
+link Heroic Geist to Zettel--><!--MD5=[058955c36efd98455fa0585f4e553d00]
+link Lord Guardian to Ingot--><!--MD5=[e376327c45e85dff8c42f3928a791a7c]
+link Astronomical Clock to Building Material--><!--MD5=[2a4b0617bba37234d30e9bb5382c00ae]
+link Exorcism Brooch to Plant Seed--><!--MD5=[6b3624d5ef3861cd03af9bcfee5793d3]
+link Vanish Siegel to Restoration Bottle--><!--MD5=[46f210fa7e1bd3336dacf9045727776a]
+@startuml
+!theme blueprint
+package ClothTree {
+    (Cloth) - -> (Alchemy Fibers)
+    (Cloth) - -> (Natural Cloth)
+    (Alchemy Fibers) - -> (Heaven's String)
+    (Alchemy Fibers) - -> (Thorny Embrace)
+    (Natural Cloth) - -> (Beastial Air)
+    (Natural Cloth) - -> (Puni Leather)
+    (Thorny Embrace) - -> (Poison Smoke)
+    (Beastial Air) - -> (Knapsack)
+    (Beastial Air) - -> (Sorcery Rose)
+    (Poison Smoke) - -> (Heroic Geist)
+    (Knapsack) - -> (Exploration Set)
+    (Sorcery Rose) - -> (Wind Shoes)
+}
+
+package Bombs {
+    (Bomb) - -> (Rose Bomb)
+    (Rose Bomb) - -> (Fire Bottle)
+    (Explosive Uni) - -> (Craft)
+    (Explosive Uni) - -> (Ice Caltrop)
+    (Ice Caltrop) - -> (Ice Bomb)
+    (Ice Bomb) - -> (Kleid Ice Bomb)
+    (Kleid Ice Bomb) - -> (Vanish Siegel)
+    (Ratsel Luft) - -> (Vanish Siegel)
+    (Luft) - -> (Ratsel Luft)
+    (Plajig) - -> (Strahl Plajig)
+
+    /'Hidden links for better formatting'/
+    (Fire Bottle) -[hidden]-> (Plajig)
+}
+
+package Accessories {
+    (Polish Powder) - -> (Energy Pendant)
+    (Polish Powder) - -> (Pearl Crystal)
+    (Pearl Crystal) - -> (Amberlite)
+    (Pearl Crystal) - -> (Gnardi Ring)
+    (Amberlite) - -> (Quartz Necklace)
+    (Amberlite) - -> (Spirinite)
+    (Spirinite) - -> (Heated Bangle)
+    (Spirinite) - -> (Saint's Diamond)
+    (Saint's Diamond) - -> (Arc en Ciel)
+    (Saint's Diamond) - -> (Fairystone Chain)
+    (Arc en Ciel) - -> (Elixir Ring)
+    (Boltwind Earring) - -> (Frostfire Earring)
+    (Master Leather) - -> (Godspeed Boots)
+
+    /'Hidden links for better formatting'/
+    (Godspeed Boots) -[hidden]-> (Boltwind Earring)
+}
+
+package Ingots {
+    (Ingot) - -> (Bronze Eisen)
+    (Ingot) - -> (Reaper's Scythe)
+    (Bronze Eisen) - -> (Compass)
+    (Bronze Eisen) - -> (Staltium)
+    (Reaper's Scythe) - -> (Scythe Axe)
+    (Compass) - -> (Loupe Compass)
+    (Staltium) - -> (Criminea)
+    (Staltium) - -> (Norden Brand)
+    (Criminea) - -> (Astronomical Clock)
+    (Goldoterion) - -> (Baron's Crown)
+}
+
+package Medicines {
+    (Grass Beans) - -> (Blessing Ointment)
+    (Grass Beans) - -> (Dry Biscuit)
+    (Dry Biscuit) - -> (Puni Jelly)
+    (Rasen Pudding) - -> (Cocktail Leb)
+    (Restoration Bottle) - -> (Nectar)
+    (Nectar) - -> (Elixir)
+
+    /'Hidden links for better formatting'/
+    (Blessing Ointment) -[hidden]-> (Rasen Pudding)
+}
+
+package SynthComponents {
+    (Mixing Oil) - -> (Alchemy Paint)
+    (Mixing Oil) - -> (Fish Oil)
+    (Alchemy Paint) - -> (Mastery Paint)
+    (Alchemy Paint) - -> (Spirit Bottle)
+    (Spirit Bottle) - -> (Crystal Element)
+    (Crystal Element) - -> (Philosopher's Stone)
+    (Gunpowder Base) - -> (Blue Flame Ember)
+    (Red Stone) - -> (Crimson Stone)
+    (Flour) - -> (Delicious Bait)
+    (Flour) - -> (Poison Cube)
+    (Delicious Bait) - -> (Powerful Fish Bait)
+    (Poison Cube) - -> (Taboo Drop)
+    (Taboo Drop) - -> (Holy Drop)
+    (Honey) - -> (Eltz Sugar)
+    (Honey) - -> (Sundry Remedy)
+    (Eltz Sugar) - -> (War Powder)
+    (War Powder) - -> (Miracle Ebonyal)
+    (Lightning Bell) - -> (Lightning Sand)
+
+    /'Hidden links for better formatting'/
+    (Lightning Sand) -[hidden]-> (Gunpowder Base)
+    (Blue Flame Ember) -[hidden]-> (Red Stone)
+}
+
+package GatherTools {
+    (Hammer) - -> (Bomb Hammer)
+    (Zettel) - -> (Traveler's Water Orb)
+    (Traveler's Water Orb) - -> (Delphi Rose Incense)
+    (Traveler's Water Orb) - -> (Mist Liquid)
+    (Delphi Rose Incense) - -> (Glass Flower)
+    (Glass Flower) - -> (Mirage Loupe)
+    (Fishing Rod) - -> (Fishing Rod Net)
+
+    /'Hidden links for better formatting'/
+    (Fishing Rod Net) -[hidden]-> (Hammer)
+}
+
+package Armors {
+    (Leather Protector) - -> (Border Scale)
+    (Border Scale) - -> (Radiant Plate)
+    (Radiant Plate) - -> (Frost Armor)
+    (Frost Armor) - -> (Golden Mail)
+    (Golden Mail) - -> (Fortress Armor)
+    (Fortress Armor) - -> (Stark Cologne)
+    (Sage's Cloak) - -> (Stark Cologne)
+    (Darkness Dress) - -> (Sage's Cloak)
+    (Fairy Cloak) - -> (Darkness Dress)
+    (Chain Vest) - -> (Fairy Cloak)
+    (Chain Vest) - -> (Skuller Coat)
+    (Kurken Sweats) - -> (Chain Vest)
+    (Noble Tunic) - -> (Chain Vest)
+    (Noble Tunic) - -> (Skuller Coat)
+    (Skuller Coat) - -> (Charade Lumont)
+}
+
+package Weapons {
+    (Stake Hammer) - -> (Clairempathy)
+    (Clairempathy) - -> (Destruction)
+    (Destruction) - -> (Holy Torrent)
+    (Holy Torrent) - -> (Brave Emblem)
+    (Handmade Staff) - -> (Helioprox)
+    (Helioprox) - -> (Grim Quartz)
+    (Grim Quartz) - -> (Rune Code)
+    (Rune Code) - -> (Celestial Seeker)
+    (Weathered Sword) - -> (Colossal Edge)
+    (Colossal Edge) - -> (Initiator)
+    (Initiator) - -> (Schwartz Thruster)
+    (Schwartz Thruster) - -> (Lord Guardian)
+    (Practice Flute) - -> (Crepusculum)
+    (Crepusculum) - -> (Virgin Snow)
+    (Virgin Snow) - -> (Concert Mistress)
+    (Concert Mistress) - -> (Ethereal Tone)
+    (Pilgrimage Staff) - -> (Forest Bell)
+    (Forest Bell) - -> (Training Path)
+    (Training Path) - -> (Holy Arbor Staff)
+    (Holy Arbor Staff) - -> (Occult Wisdom)
+    (Iron Claws) - -> (Krieger's Talon)
+    (Krieger's Talon) - -> (Hail Crunch)
+    (Hail Crunch) - -> (Wind Slicer)
+    (Wind Slicer) - -> (Oren Herald)
+}
+
+package HideoutMaterial {
+    (Building Material) - -> (Composite Plate)
+    (Building Material) - -> (Healing Chip)
+    (Composite Plate) - -> (Holy Nut)
+    (Healing Chip) - -> (Resort Woodchip)
+    (Holy Nut) - -> (Exorcism Brooch)
+    (Holy Nut) - -> (Plain Lumber)
+    (Stone Material) - -> (Marblestone)
+    (Marblestone) - -> (Meltstone)
+    (Marblestone) - -> (Royal Tilestone)
+}
+
+package Seeds {
+    (Plant Seed) - -> (Stone Seed)
+    (Plant Seed) - -> (Water Seed)
+    (Stone Seed) - -> (Fire Seed)
+    (Water Seed) - -> (Mystic Seed)
+}
+
+(Stark Cologne) -[hidden]-> (Cloth)
+(Elixir Ring) -[hidden]- - - -> (Flour)
+Armors -[hidden]> Weapons
+Weapons -[hidden]> Accessories
+(Heroic Geist) -[hidden]-> (Zettel)
+(Lord Guardian) -[hidden]-> (Ingot)
+(Astronomical Clock) -[hidden]-> (Building Material)
+(Exorcism Brooch) -[hidden]-> (Plant Seed)
+(Vanish Siegel) -[hidden]-> (Restoration Bottle)
+@enduml
+
+@startuml
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor #003153
+    FontColor #D9D3D0
+    FontName Verdana
+    HyperLinkColor #D9D3D0
+    LineColor #D9D3D0
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor #D9D3D0
+skinparam BackgroundColor #003153
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor #D9D3D0
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor #003153
+  BarColor #D9D3D0
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor #D9D3D0
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor #D9D3D0
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Header {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color #D9D3D0
+}
+skinparam IconPackage {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconPrivate {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconProtected {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconPublic {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam Note {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor #D9D3D0
+}
+skinparam Package {
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeA {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeC {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeE {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeI {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeN {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam UseCaseStereoType {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+package ClothTree {
+    (Cloth) - -> (Alchemy Fibers)
+    (Cloth) - -> (Natural Cloth)
+    (Alchemy Fibers) - -> (Heaven's String)
+    (Alchemy Fibers) - -> (Thorny Embrace)
+    (Natural Cloth) - -> (Beastial Air)
+    (Natural Cloth) - -> (Puni Leather)
+    (Thorny Embrace) - -> (Poison Smoke)
+    (Beastial Air) - -> (Knapsack)
+    (Beastial Air) - -> (Sorcery Rose)
+    (Poison Smoke) - -> (Heroic Geist)
+    (Knapsack) - -> (Exploration Set)
+    (Sorcery Rose) - -> (Wind Shoes)
+}
+
+package Bombs {
+    (Bomb) - -> (Rose Bomb)
+    (Rose Bomb) - -> (Fire Bottle)
+    (Explosive Uni) - -> (Craft)
+    (Explosive Uni) - -> (Ice Caltrop)
+    (Ice Caltrop) - -> (Ice Bomb)
+    (Ice Bomb) - -> (Kleid Ice Bomb)
+    (Kleid Ice Bomb) - -> (Vanish Siegel)
+    (Ratsel Luft) - -> (Vanish Siegel)
+    (Luft) - -> (Ratsel Luft)
+    (Plajig) - -> (Strahl Plajig)
+
+    (Fire Bottle) -[hidden]-> (Plajig)
+}
+
+package Accessories {
+    (Polish Powder) - -> (Energy Pendant)
+    (Polish Powder) - -> (Pearl Crystal)
+    (Pearl Crystal) - -> (Amberlite)
+    (Pearl Crystal) - -> (Gnardi Ring)
+    (Amberlite) - -> (Quartz Necklace)
+    (Amberlite) - -> (Spirinite)
+    (Spirinite) - -> (Heated Bangle)
+    (Spirinite) - -> (Saint's Diamond)
+    (Saint's Diamond) - -> (Arc en Ciel)
+    (Saint's Diamond) - -> (Fairystone Chain)
+    (Arc en Ciel) - -> (Elixir Ring)
+    (Boltwind Earring) - -> (Frostfire Earring)
+    (Master Leather) - -> (Godspeed Boots)
+
+    (Godspeed Boots) -[hidden]-> (Boltwind Earring)
+}
+
+package Ingots {
+    (Ingot) - -> (Bronze Eisen)
+    (Ingot) - -> (Reaper's Scythe)
+    (Bronze Eisen) - -> (Compass)
+    (Bronze Eisen) - -> (Staltium)
+    (Reaper's Scythe) - -> (Scythe Axe)
+    (Compass) - -> (Loupe Compass)
+    (Staltium) - -> (Criminea)
+    (Staltium) - -> (Norden Brand)
+    (Criminea) - -> (Astronomical Clock)
+    (Goldoterion) - -> (Baron's Crown)
+}
+
+package Medicines {
+    (Grass Beans) - -> (Blessing Ointment)
+    (Grass Beans) - -> (Dry Biscuit)
+    (Dry Biscuit) - -> (Puni Jelly)
+    (Rasen Pudding) - -> (Cocktail Leb)
+    (Restoration Bottle) - -> (Nectar)
+    (Nectar) - -> (Elixir)
+
+    (Blessing Ointment) -[hidden]-> (Rasen Pudding)
+}
+
+package SynthComponents {
+    (Mixing Oil) - -> (Alchemy Paint)
+    (Mixing Oil) - -> (Fish Oil)
+    (Alchemy Paint) - -> (Mastery Paint)
+    (Alchemy Paint) - -> (Spirit Bottle)
+    (Spirit Bottle) - -> (Crystal Element)
+    (Crystal Element) - -> (Philosopher's Stone)
+    (Gunpowder Base) - -> (Blue Flame Ember)
+    (Red Stone) - -> (Crimson Stone)
+    (Flour) - -> (Delicious Bait)
+    (Flour) - -> (Poison Cube)
+    (Delicious Bait) - -> (Powerful Fish Bait)
+    (Poison Cube) - -> (Taboo Drop)
+    (Taboo Drop) - -> (Holy Drop)
+    (Honey) - -> (Eltz Sugar)
+    (Honey) - -> (Sundry Remedy)
+    (Eltz Sugar) - -> (War Powder)
+    (War Powder) - -> (Miracle Ebonyal)
+    (Lightning Bell) - -> (Lightning Sand)
+
+    (Lightning Sand) -[hidden]-> (Gunpowder Base)
+    (Blue Flame Ember) -[hidden]-> (Red Stone)
+}
+
+package GatherTools {
+    (Hammer) - -> (Bomb Hammer)
+    (Zettel) - -> (Traveler's Water Orb)
+    (Traveler's Water Orb) - -> (Delphi Rose Incense)
+    (Traveler's Water Orb) - -> (Mist Liquid)
+    (Delphi Rose Incense) - -> (Glass Flower)
+    (Glass Flower) - -> (Mirage Loupe)
+    (Fishing Rod) - -> (Fishing Rod Net)
+
+    (Fishing Rod Net) -[hidden]-> (Hammer)
+}
+
+package Armors {
+    (Leather Protector) - -> (Border Scale)
+    (Border Scale) - -> (Radiant Plate)
+    (Radiant Plate) - -> (Frost Armor)
+    (Frost Armor) - -> (Golden Mail)
+    (Golden Mail) - -> (Fortress Armor)
+    (Fortress Armor) - -> (Stark Cologne)
+    (Sage's Cloak) - -> (Stark Cologne)
+    (Darkness Dress) - -> (Sage's Cloak)
+    (Fairy Cloak) - -> (Darkness Dress)
+    (Chain Vest) - -> (Fairy Cloak)
+    (Chain Vest) - -> (Skuller Coat)
+    (Kurken Sweats) - -> (Chain Vest)
+    (Noble Tunic) - -> (Chain Vest)
+    (Noble Tunic) - -> (Skuller Coat)
+    (Skuller Coat) - -> (Charade Lumont)
+}
+
+package Weapons {
+    (Stake Hammer) - -> (Clairempathy)
+    (Clairempathy) - -> (Destruction)
+    (Destruction) - -> (Holy Torrent)
+    (Holy Torrent) - -> (Brave Emblem)
+    (Handmade Staff) - -> (Helioprox)
+    (Helioprox) - -> (Grim Quartz)
+    (Grim Quartz) - -> (Rune Code)
+    (Rune Code) - -> (Celestial Seeker)
+    (Weathered Sword) - -> (Colossal Edge)
+    (Colossal Edge) - -> (Initiator)
+    (Initiator) - -> (Schwartz Thruster)
+    (Schwartz Thruster) - -> (Lord Guardian)
+    (Practice Flute) - -> (Crepusculum)
+    (Crepusculum) - -> (Virgin Snow)
+    (Virgin Snow) - -> (Concert Mistress)
+    (Concert Mistress) - -> (Ethereal Tone)
+    (Pilgrimage Staff) - -> (Forest Bell)
+    (Forest Bell) - -> (Training Path)
+    (Training Path) - -> (Holy Arbor Staff)
+    (Holy Arbor Staff) - -> (Occult Wisdom)
+    (Iron Claws) - -> (Krieger's Talon)
+    (Krieger's Talon) - -> (Hail Crunch)
+    (Hail Crunch) - -> (Wind Slicer)
+    (Wind Slicer) - -> (Oren Herald)
+}
+
+package HideoutMaterial {
+    (Building Material) - -> (Composite Plate)
+    (Building Material) - -> (Healing Chip)
+    (Composite Plate) - -> (Holy Nut)
+    (Healing Chip) - -> (Resort Woodchip)
+    (Holy Nut) - -> (Exorcism Brooch)
+    (Holy Nut) - -> (Plain Lumber)
+    (Stone Material) - -> (Marblestone)
+    (Marblestone) - -> (Meltstone)
+    (Marblestone) - -> (Royal Tilestone)
+}
+
+package Seeds {
+    (Plant Seed) - -> (Stone Seed)
+    (Plant Seed) - -> (Water Seed)
+    (Stone Seed) - -> (Fire Seed)
+    (Water Seed) - -> (Mystic Seed)
+}
+
+(Stark Cologne) -[hidden]-> (Cloth)
+(Elixir Ring) -[hidden]- - - -> (Flour)
+Armors -[hidden]> Weapons
+Weapons -[hidden]> Accessories
+(Heroic Geist) -[hidden]-> (Zettel)
+(Lord Guardian) -[hidden]-> (Ingot)
+(Astronomical Clock) -[hidden]-> (Building Material)
+(Exorcism Brooch) -[hidden]-> (Plant Seed)
+(Vanish Siegel) -[hidden]-> (Restoration Bottle)
+@enduml
+
+PlantUML version 1.2022.6beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

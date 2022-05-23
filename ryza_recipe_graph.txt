@@ -1,0 +1,189 @@
+@startuml
+!theme blueprint
+package ClothTree {
+    (Cloth) --> (Alchemy Fibers)
+    (Cloth) --> (Natural Cloth)
+    (Alchemy Fibers) --> (Heaven's String)
+    (Alchemy Fibers) --> (Thorny Embrace)
+    (Natural Cloth) --> (Beastial Air)
+    (Natural Cloth) --> (Puni Leather)
+    (Thorny Embrace) --> (Poison Smoke)
+    (Beastial Air) --> (Knapsack)
+    (Beastial Air) --> (Sorcery Rose)
+    (Poison Smoke) --> (Heroic Geist)
+    (Knapsack) --> (Exploration Set)
+    (Sorcery Rose) --> (Wind Shoes)
+}
+
+package Bombs {
+    (Bomb) --> (Rose Bomb)
+    (Rose Bomb) --> (Fire Bottle)
+    (Explosive Uni) --> (Craft)
+    (Explosive Uni) --> (Ice Caltrop)
+    (Ice Caltrop) --> (Ice Bomb)
+    (Ice Bomb) --> (Kleid Ice Bomb)
+    (Kleid Ice Bomb) --> (Vanish Siegel)
+    (Ratsel Luft) --> (Vanish Siegel)
+    (Luft) --> (Ratsel Luft)
+    (Plajig) --> (Strahl Plajig)
+
+    /'Hidden links for better formatting'/
+    (Fire Bottle) -[hidden]-> (Plajig)
+}
+
+package Accessories {
+    (Polish Powder) --> (Energy Pendant)
+    (Polish Powder) --> (Pearl Crystal)
+    (Pearl Crystal) --> (Amberlite)
+    (Pearl Crystal) --> (Gnardi Ring)
+    (Amberlite) --> (Quartz Necklace)
+    (Amberlite) --> (Spirinite)
+    (Spirinite) --> (Heated Bangle)
+    (Spirinite) --> (Saint's Diamond)
+    (Saint's Diamond) --> (Arc en Ciel)
+    (Saint's Diamond) --> (Fairystone Chain)
+    (Arc en Ciel) --> (Elixir Ring)
+    (Boltwind Earring) --> (Frostfire Earring)
+    (Master Leather) --> (Godspeed Boots)
+
+    /'Hidden links for better formatting'/
+    (Godspeed Boots) -[hidden]-> (Boltwind Earring)
+}
+
+package Ingots {
+    (Ingot) --> (Bronze Eisen)
+    (Ingot) --> (Reaper's Scythe)
+    (Bronze Eisen) --> (Compass)
+    (Bronze Eisen) --> (Staltium)
+    (Reaper's Scythe) --> (Scythe Axe)
+    (Compass) --> (Loupe Compass)
+    (Staltium) --> (Criminea)
+    (Staltium) --> (Norden Brand)
+    (Criminea) --> (Astronomical Clock)
+    (Goldoterion) --> (Baron's Crown)
+}
+
+package Medicines {
+    (Grass Beans) --> (Blessing Ointment)
+    (Grass Beans) --> (Dry Biscuit)
+    (Dry Biscuit) --> (Puni Jelly)
+    (Rasen Pudding) --> (Cocktail Leb)
+    (Restoration Bottle) --> (Nectar)
+    (Nectar) --> (Elixir)
+
+    /'Hidden links for better formatting'/
+    (Blessing Ointment) -[hidden]-> (Rasen Pudding)
+}
+
+package SynthComponents {
+    (Mixing Oil) --> (Alchemy Paint)
+    (Mixing Oil) --> (Fish Oil)
+    (Alchemy Paint) --> (Mastery Paint)
+    (Alchemy Paint) --> (Spirit Bottle)
+    (Spirit Bottle) --> (Crystal Element)
+    (Crystal Element) --> (Philosopher's Stone)
+    (Gunpowder Base) --> (Blue Flame Ember)
+    (Red Stone) --> (Crimson Stone)
+    (Flour) --> (Delicious Bait)
+    (Flour) --> (Poison Cube)
+    (Delicious Bait) --> (Powerful Fish Bait)
+    (Poison Cube) --> (Taboo Drop)
+    (Taboo Drop) --> (Holy Drop)
+    (Honey) --> (Eltz Sugar)
+    (Honey) --> (Sundry Remedy)
+    (Eltz Sugar) --> (War Powder)
+    (War Powder) --> (Miracle Ebonyal)
+    (Lightning Bell) --> (Lightning Sand)
+
+    /'Hidden links for better formatting'/
+    (Lightning Sand) -[hidden]-> (Gunpowder Base)
+    (Blue Flame Ember) -[hidden]-> (Red Stone)
+}
+
+package GatherTools {
+    (Hammer) --> (Bomb Hammer)
+    (Zettel) --> (Traveler's Water Orb)
+    (Traveler's Water Orb) --> (Delphi Rose Incense)
+    (Traveler's Water Orb) --> (Mist Liquid)
+    (Delphi Rose Incense) --> (Glass Flower)
+    (Glass Flower) --> (Mirage Loupe)
+    (Fishing Rod) --> (Fishing Rod Net)
+
+    /'Hidden links for better formatting'/
+    (Fishing Rod Net) -[hidden]-> (Hammer)
+}
+
+package Armors {
+    (Leather Protector) --> (Border Scale)
+    (Border Scale) --> (Radiant Plate)
+    (Radiant Plate) --> (Frost Armor)
+    (Frost Armor) --> (Golden Mail)
+    (Golden Mail) --> (Fortress Armor)
+    (Fortress Armor) --> (Stark Cologne)
+    (Sage's Cloak) --> (Stark Cologne)
+    (Darkness Dress) --> (Sage's Cloak)
+    (Fairy Cloak) --> (Darkness Dress)
+    (Chain Vest) --> (Fairy Cloak)
+    (Chain Vest) --> (Skuller Coat)
+    (Kurken Sweats) --> (Chain Vest)
+    (Noble Tunic) --> (Chain Vest)
+    (Noble Tunic) --> (Skuller Coat)
+    (Skuller Coat) --> (Charade Lumont)
+}
+
+package Weapons {
+    (Stake Hammer) --> (Clairempathy)
+    (Clairempathy) --> (Destruction)
+    (Destruction) --> (Holy Torrent)
+    (Holy Torrent) --> (Brave Emblem)
+    (Handmade Staff) --> (Helioprox)
+    (Helioprox) --> (Grim Quartz)
+    (Grim Quartz) --> (Rune Code)
+    (Rune Code) --> (Celestial Seeker)
+    (Weathered Sword) --> (Colossal Edge)
+    (Colossal Edge) --> (Initiator)
+    (Initiator) --> (Schwartz Thruster)
+    (Schwartz Thruster) --> (Lord Guardian)
+    (Practice Flute) --> (Crepusculum)
+    (Crepusculum) --> (Virgin Snow)
+    (Virgin Snow) --> (Concert Mistress)
+    (Concert Mistress) --> (Ethereal Tone)
+    (Pilgrimage Staff) --> (Forest Bell)
+    (Forest Bell) --> (Training Path)
+    (Training Path) --> (Holy Arbor Staff)
+    (Holy Arbor Staff) --> (Occult Wisdom)
+    (Iron Claws) --> (Krieger's Talon)
+    (Krieger's Talon) --> (Hail Crunch)
+    (Hail Crunch) --> (Wind Slicer)
+    (Wind Slicer) --> (Oren Herald)
+}
+
+package HideoutMaterial {
+    (Building Material) --> (Composite Plate)
+    (Building Material) --> (Healing Chip)
+    (Composite Plate) --> (Holy Nut)
+    (Healing Chip) --> (Resort Woodchip)
+    (Holy Nut) --> (Exorcism Brooch)
+    (Holy Nut) --> (Plain Lumber)
+    (Stone Material) --> (Marblestone)
+    (Marblestone) --> (Meltstone)
+    (Marblestone) --> (Royal Tilestone)
+}
+
+package Seeds {
+    (Plant Seed) --> (Stone Seed)
+    (Plant Seed) --> (Water Seed)
+    (Stone Seed) --> (Fire Seed)
+    (Water Seed) --> (Mystic Seed)
+}
+
+(Stark Cologne) -[hidden]-> (Cloth)
+(Elixir Ring) -[hidden]----> (Flour)
+Armors -[hidden]> Weapons
+Weapons -[hidden]> Accessories
+(Heroic Geist) -[hidden]-> (Zettel)
+(Lord Guardian) -[hidden]-> (Ingot)
+(Astronomical Clock) -[hidden]-> (Building Material)
+(Exorcism Brooch) -[hidden]-> (Plant Seed)
+(Vanish Siegel) -[hidden]-> (Restoration Bottle)
+@enduml
